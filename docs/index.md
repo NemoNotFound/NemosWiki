@@ -4,15 +4,15 @@ layout: home
 
 hero:
   name: "Nemo's Wiki"
-  text: "All of my wikis in one place"
+  text: "Everythhing ypu need to know in one place"
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Projects
+      link: /projects
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 3rd Parties API
+      link: /third-parties-api
 
 features:
   - title: Feature A
