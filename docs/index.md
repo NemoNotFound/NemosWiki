@@ -11,8 +11,8 @@ hero:
       text: Projects
       link: /projects
     - theme: alt
-      text: 3rd Parties API
-      link: /third-parties-api
+      text: Third-Party APIs
+      link: /third-party-apis
 
 features:
   - title: Feature A
