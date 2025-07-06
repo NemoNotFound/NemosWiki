@@ -9,7 +9,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Projects", link: "/projects" },
-      { text: "3rd Parties API", link: "/third-parties-api" },
+      { text: "3rd-party APIs", link: "/third-party-apis" },
     ],
 
     sidebar: [
