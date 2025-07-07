@@ -3,11 +3,10 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   cleanUrls: true,
-  lastUpdated: true,
   title: "Nemo's Wiki",
   description: "All of Nemo's Wiki in one place",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+    logo: "https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/svg/logo.svg?raw=true",
     nav: [
       { text: "Home", link: "/" },
       { text: "Projects", link: "/projects" },
@@ -47,6 +46,11 @@ export default defineConfig({
 
     socialLinks: [
       { icon: "github", link: "https://github.com/NemoNotFound/NemosWiki" },
+      { icon: "modrinth", link: "https://modrinth.com/user/DevNemo" },
+      {
+        icon: "curseforge",
+        link: "https://www.curseforge.com/members/devnemo/projects",
+      },
     ],
   },
 });
