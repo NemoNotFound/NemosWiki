@@ -2,6 +2,8 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  cleanUrls: true,
+  lastUpdated: true,
   title: "Nemo's Wiki",
   description: "All of Nemo's Wiki in one place",
   themeConfig: {
