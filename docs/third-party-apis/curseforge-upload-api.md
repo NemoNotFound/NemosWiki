@@ -10,7 +10,7 @@ All URIs are relative to the site the project is hosted on (e.g., https://minecr
 
 To use the CurseForge Upload API, you first need to generate an API token.
 
-1. Visit the [API Tokens page](https://authors-old.curseforge.com/account/api-tokens).
+1. Visit the [API Tokens page](https://legacy.curseforge.com/account/api-tokens).
 2. Give the token a recognizable name and generate it.
 3. Copy the token and store it securely - you'll need it for authentication in your API requests.
 
@@ -150,20 +150,6 @@ Mod loaders are handled separately — for example, mod loaders for Minecraft us
 
 #### Java Version IDs
 
-- **Java 6:** `4456`
-- **Java 7:** `4457`
-- **Java 8:** `4458`
-- **Java 9:** `6762`
-- **Java 10:** `7113`
-- **Java 11:** `8320`
-- **Java 12:** `8321`
-- **Java 13:** `8322`
-- **Java 14:** `8323`
-- **Java 15:** `8324`
-- **Java 16:** `8325`
-- **Java 17:** `8326`
-- **Java 18:** `8634`
-- **Java 19:** `11133`
-- **Java 20:** `11134`
-- **Java 21:** `11135`
-- **Java 22:** `11136`
+| Java Version   | 22      | 21      | 20      | 19      | 18     | 17     | 16     | 15     | 14     | 13     | 12     | 11     | 10     | 9      | 8      | 7      | 6      |
+| -------------- | ------- | ------- | ------- | ------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| **Version ID** | `11136` | `11135` | `11134` | `11133` | `8634` | `8326` | `8325` | `8324` | `8323` | `8322` | `8321` | `8320` | `7113` | `6762` | `4458` | `4457` | `4456` |

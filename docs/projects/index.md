@@ -8,5 +8,5 @@ hero:
   actions:
     - theme: brand
       text: Minecraft Mods
-      link: /minecraft-mods
+      link: projects/minecraft-mods
 ---

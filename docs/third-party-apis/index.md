@@ -8,5 +8,5 @@ hero:
   actions:
     - theme: brand
       text: CurseForge Upload API
-      link: /curseforge-upload-api
+      link: third-party-apis/curseforge-upload-api
 ---
