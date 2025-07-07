@@ -12,6 +12,7 @@ export default defineConfig({
     ],
   ],
   cleanUrls: true,
+  lastUpdated: true,
   title: "Nemo's Wiki",
   description: "All of Nemo's Wiki in one place",
   themeConfig: {
@@ -21,7 +22,11 @@ export default defineConfig({
       { text: "Projects", link: "/projects" },
       { text: "Third-Party APIs", link: "/third-party-apis" },
     ],
-
+    editLink: {
+      pattern:
+        "https://github.com/NemoNotFound/NemosWiki/tree/master/docs/:path",
+      text: "Edit this page on GitHub",
+    },
     sidebar: {
       "/projects/": [
         {
