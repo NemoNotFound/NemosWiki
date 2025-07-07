@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Nemo's Wiki"
-  text: "Everythhing ypu need to know in one place"
-  tagline: My great project tagline
+  text: "All you need to know – in one place"
+  tagline: First read, then ask
   actions:
     - theme: brand
       text: Projects

@@ -1,4 +1,9 @@
-# CurseForge Upload API
+---
+title: CurseForge Upload API
+outline: deep
+---
+
+# {{ $frontmatter.title }}
 
 The CurseForge API allows users to automate the management of their projects and retrieve data such as game versions, dependencies, and more from CurseForge.
 
@@ -14,7 +19,7 @@ To use the CurseForge Upload API, you first need to generate an API token.
 2. Give the token a recognizable name and generate it.
 3. Copy the token and store it securely - you'll need it for authentication in your API requests.
 
-::: danger
+::: danger Caution
 ⚠️ **Keep your token private.** If exposed, revoke and regenerate it immediately.
 :::
 
