@@ -2,6 +2,15 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  head: [
+    [
+      "link",
+      {
+        rel: "icon",
+        href: "https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/svg/logo.svg?raw=true",
+      },
+    ],
+  ],
   cleanUrls: true,
   title: "Nemo's Wiki",
   description: "All of Nemo's Wiki in one place",
