@@ -34,6 +34,10 @@ Nemo's Inventory Sorting is compatible with **Iron Chests** _(since version 1.11
 
 You’ll need to install the [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to use this mod.
 
+## Source Code
+
+You can view the source code [here](https://github.com/NemoNotFound/NemosInventorySorting).
+
 ## Support
 
 Need help or have a question? I’m happy to assist you!

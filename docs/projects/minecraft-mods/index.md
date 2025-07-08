@@ -9,4 +9,7 @@ hero:
     - theme: brand
       text: Nemo's Inventory Sorting
       link: projects/minecraft-mods/nemos-inventory-sorting/general
+    - theme: alt
+      text: Nemo's Mending
+      link: projects/minecraft-mods/nemos-mending/general
 ---

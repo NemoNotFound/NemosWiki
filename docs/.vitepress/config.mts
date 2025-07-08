@@ -53,6 +53,17 @@ export default defineConfig({
                 },
               ],
             },
+            {
+              text: "Nemo's Mending",
+              base: "/projects/minecraft-mods/nemos-mending/",
+              collapsed: true,
+              items: [
+                {
+                  text: "General",
+                  link: "general",
+                },
+              ],
+            },
           ],
         },
       ],
