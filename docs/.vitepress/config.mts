@@ -31,7 +31,6 @@ export default defineConfig({
       "/projects/": [
         {
           text: "Minecraft Mods",
-          base: "/projects/minecraft-mods/",
           collapsed: true,
           items: [
             {
