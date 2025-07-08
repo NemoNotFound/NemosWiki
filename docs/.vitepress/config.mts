@@ -20,7 +20,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Projects", link: "/projects" },
-      { text: "Third-Party APIs", link: "/third-party-apis" },
+      { text: "Third-Party", link: "/third-party" },
     ],
     editLink: {
       pattern:

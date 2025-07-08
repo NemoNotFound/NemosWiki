@@ -14,14 +14,14 @@ hero:
       text: Projects
       link: /projects
     - theme: alt
-      text: Third-Party APIs
-      link: /third-party-apis
+      text: Third-Party
+      link: /third-party
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Minecraft Mods
+    details: Making Minecraft mods is more than a hobby — it’s my passion. Every mod deserves a wiki to tell its story!
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Third-Party Documentation
+    details: If I find documentation insufficient, I aim to provide a clearer and more complete version.
 ---

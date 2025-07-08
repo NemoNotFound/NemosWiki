@@ -3,10 +3,10 @@
 layout: home
 
 hero:
-  name: "Third-Party APIs"
-  tagline: Wikis for third-party APIs
+  name: "Third-Party"
+  tagline: Wikis for third-parties
   actions:
     - theme: brand
       text: CurseForge Upload API
-      link: third-party-apis/curseforge-upload-api
+      link: third-party/curseforge-upload-api
 ---
