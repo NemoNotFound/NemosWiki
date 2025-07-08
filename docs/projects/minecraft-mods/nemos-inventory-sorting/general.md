@@ -23,11 +23,6 @@ Use at your own risk — or check with the server admins beforehand.
 
 Nemo's Inventory Sorting is compatible with **Iron Chests** _(since version 1.11)_.
 
-## Downloads
-
-- [CurseForge](https://curseforge.com/minecraft/mc-mods/nemos-inventory-sorting)
-- [Modrinth](https://modrinth.com/mod/nemos-inventory-sorting)
-
 ## Requirements
 
 ### For Fabric Users
