@@ -10,11 +10,6 @@ With **Nemo's Mending**, tools, weapons and armor repair even if they're not equ
 
 Nemo's Mending is compatible with [**Clumps**](https://www.curseforge.com/minecraft/mc-mods/clumps) by Jaredlll08 _(since minecraft version 1.20.1)_.
 
-## Downloads
-
-- [CurseForge](https://curseforge.com/minecraft/mc-mods/nemos-inventory-sorting)
-- [Modrinth](https://modrinth.com/mod/nemos-inventory-sorting)
-
 ## Requirements
 
 ### For Fabric Users
