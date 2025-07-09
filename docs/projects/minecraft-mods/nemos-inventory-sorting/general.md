@@ -1,5 +1,6 @@
 ---
 outline: deep
+repository: NemosInventorySorting
 ---
 
 # Nemo's Inventory Sorting
@@ -14,6 +15,8 @@ This is a **client-only mod**, which means it can give you an advantage over oth
 Using it on public servers _may_ get you banned depending on the server’s rules.  
 Use at your own risk — or check with the server admins beforehand.
 :::
+
+<!--@include: @/../templates/minecraft-note.md-->
 
 ::: info
 💡 If you're a dark mode enthusiast, you can use the built-in dark mode resource pack.
