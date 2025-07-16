@@ -1,6 +1,5 @@
 ---
 outline: deep
-repository: NemosInventorySorting
 ---
 
 # Nemo's Inventory Sorting

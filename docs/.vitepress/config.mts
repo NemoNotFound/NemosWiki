@@ -96,7 +96,7 @@ export default defineConfig({
       },
       {
         icon: "kofi",
-        link: "https://ko-fi.com/nemonotfound",
+        link: "https://ko-fi.com/devnemo",
       },
     ],
   },
