@@ -12,4 +12,7 @@ hero:
     - theme: alt
       text: Nemo's Mending
       link: projects/minecraft-mods/nemos-mending/general
+    - theme: alt
+      text: Nemo's Woodcutter
+      link: projects/minecraft-mods/nemos-woodcutter/general
 ---

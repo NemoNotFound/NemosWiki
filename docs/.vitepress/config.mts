@@ -31,7 +31,7 @@ export default defineConfig({
       "/projects/": [
         {
           text: "Minecraft Mods",
-          collapsed: true,
+          collapsed: false,
           items: [
             {
               text: "Nemo's Inventory Sorting",
@@ -60,6 +60,25 @@ export default defineConfig({
                 {
                   text: "General",
                   link: "general",
+                },
+              ],
+            },
+            {
+              text: "Nemo's Woodcutter",
+              base: "/projects/minecraft-mods/nemos-woodcutter/",
+              collapsed: true,
+              items: [
+                {
+                  text: "General",
+                  link: "general",
+                },
+                {
+                  text: "Create Custom Woodcutting Recipes",
+                  link: "create-custom-woodcutting-recipes",
+                },
+                {
+                  text: "Mod Compatibilities",
+                  link: "mod-compatibilities",
                 },
               ],
             },
