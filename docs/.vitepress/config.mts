@@ -111,6 +111,16 @@ export default defineConfig({
             },
           ],
         },
+        {
+          text: "Community & Support",
+          link: "community-and-support",
+        },
+      ],
+      "/third-party": [
+        {
+          text: "Community & Support",
+          link: "community-and-support",
+        },
       ],
     },
 

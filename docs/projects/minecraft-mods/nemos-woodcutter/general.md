@@ -29,5 +29,3 @@ Need help or have a question? I’m happy to assist you!
 
 - Join the [Discord server](https://discord.com/invite/yxs9dga)
 - Or open an issue [on GitHub](https://github.com/NemoNotFound/NemosWoodcutter/issues)
-
-<!--@include: @/../templates/footer.md-->

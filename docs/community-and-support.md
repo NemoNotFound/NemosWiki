@@ -1,20 +1,20 @@
-## Be Part of the Community & Support My Work
+# Be Part of the Community & Support My Work
 
-### Join our Discord Community!
+## Join our Discord Community!
 
-Connect with others, ask questions, share feedback, or stay up to date with my mods.
+Connect with others, ask questions, share feedback, or stay up to date with my projects.
 I'm always happy to welcome new members!
 
 [![Join my Discord](https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/svg/join_discord_button.svg?raw=true)](https://discord.com/invite/yxs9dga)
 
-### Support Me
+## Support Me
 
 I love to create mods for Minecraft and wish to live off it one day, so I hope you like what I do. <br>
 Either way feel free to give me your feedback and suggestions :)
 
 [![ko-fi donation](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nemonotfound)
 
-### Get a Minecraft Server
+## Get a Minecraft Server
 
 Looking for a Minecraft Server? Check out [BisectHosting](https://bisecthosting.com/Nemo404)! <br>
 Use my code **Nemo404** to get a 25% discount on your first month with any of their gaming servers. <br><br>
