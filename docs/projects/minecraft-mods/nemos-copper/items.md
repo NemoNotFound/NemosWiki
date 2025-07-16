@@ -1,0 +1,24 @@
+# Items
+
+- Copper Shovel
+- Copper Pickaxe
+- Copper Axe
+- Copper Shears
+- Copper Sword
+- Copper Shield
+- Copper Helmet
+- Copper Chestplate
+- Copper Leggings
+- Copper Boots
+- Copper Nugget
+- Copper Bucket
+- Copper Water Bucket
+- Copper Cod Bucket
+- Copper Salmon Bucket
+- Copper Tropical Fish Bucket
+- Copper Pufferfish Bucket
+- Copper Axolotl Bucket
+- Copper Tadpole Bucket
+- Copper Lava Bucket
+- Copper Powder Snow Bucket
+- Copper Milk Bucket

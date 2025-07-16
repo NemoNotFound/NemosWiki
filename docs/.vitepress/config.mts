@@ -34,6 +34,33 @@ export default defineConfig({
           collapsed: false,
           items: [
             {
+              text: "Nemo's Copper",
+              base: "/projects/minecraft-mods/nemos-copper/",
+              collapsed: true,
+              items: [
+                {
+                  text: "General",
+                  link: "general",
+                },
+                {
+                  text: "Blocks",
+                  link: "blocks",
+                },
+                {
+                  text: "Items",
+                  link: "items",
+                },
+                {
+                  text: "Entities",
+                  link: "entities",
+                },
+                {
+                  text: "Gallery",
+                  link: "gallery",
+                },
+              ],
+            },
+            {
               text: "Nemo's Inventory Sorting",
               base: "/projects/minecraft-mods/nemos-inventory-sorting/",
               collapsed: true,

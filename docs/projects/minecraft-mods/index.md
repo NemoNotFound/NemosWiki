@@ -10,6 +10,9 @@ hero:
       text: Nemo's Inventory Sorting
       link: projects/minecraft-mods/nemos-inventory-sorting/general
     - theme: alt
+      text: Nemo's Copper
+      link: projects/minecraft-mods/nemos-copper/general
+    - theme: alt
       text: Nemo's Mending
       link: projects/minecraft-mods/nemos-mending/general
     - theme: alt
