@@ -94,6 +94,10 @@ export default defineConfig({
         icon: "curseforge",
         link: "https://www.curseforge.com/members/devnemo/projects",
       },
+      {
+        icon: "kofi",
+        link: "https://ko-fi.com/nemonotfound",
+      },
     ],
   },
 });
