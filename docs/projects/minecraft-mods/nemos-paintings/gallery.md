@@ -58,3 +58,10 @@ As you peek through your window and the eye blooms open in the dark, one lingeri
 Is it you who watches the night, or does the night watch you?
 
 _By Pnku_
+
+## Nether Wastes
+
+![Nether Wastes](https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/minecraft_projects/galleries/nemos_paintings/nether_wastes.png?raw=true)  
+The Nether Wastes. Will you survive the heat, or be consumed by the raging flames?
+
+_By [ChemDrop](https://www.curseforge.com/members/chemdrop/projects)_
