@@ -91,6 +91,25 @@ export default defineConfig({
               ],
             },
             {
+              text: "Nemo's Paintings",
+              base: "/projects/minecraft-mods/nemos-paintings/",
+              collapsed: true,
+              items: [
+                {
+                  text: "General",
+                  link: "general",
+                },
+                {
+                  text: "Gallery",
+                  link: "gallery",
+                },
+                {
+                  text: "Submit Images",
+                  link: "submit-images",
+                },
+              ],
+            },
+            {
               text: "Nemo's Woodcutter",
               base: "/projects/minecraft-mods/nemos-woodcutter/",
               collapsed: true,
