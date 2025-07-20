@@ -22,6 +22,9 @@ export default defineConfig({
       { text: "Projects", link: "/projects" },
       { text: "Third-Party", link: "/third-party" },
     ],
+    search: {
+      provider: "local",
+    },
     editLink: {
       pattern:
         "https://github.com/NemoNotFound/NemosWiki/tree/master/docs/:path",
