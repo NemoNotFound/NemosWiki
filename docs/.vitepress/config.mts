@@ -34,6 +34,21 @@ export default defineConfig({
           collapsed: false,
           items: [
             {
+              text: "Nemo's Campfires",
+              base: "/projects/minecraft-mods/nemos-campfires/",
+              collapsed: true,
+              items: [
+                {
+                  text: "General",
+                  link: "general",
+                },
+                {
+                  text: "Gallery",
+                  link: "gallery",
+                },
+              ],
+            },
+            {
               text: "Nemo's Copper",
               base: "/projects/minecraft-mods/nemos-copper/",
               collapsed: true,
