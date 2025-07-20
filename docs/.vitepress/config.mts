@@ -106,6 +106,21 @@ export default defineConfig({
               ],
             },
             {
+              text: "Nemo's Night Progression",
+              base: "/projects/minecraft-mods/nemos-night-progression/",
+              collapsed: true,
+              items: [
+                {
+                  text: "General",
+                  link: "general",
+                },
+                {
+                  text: "How It Works",
+                  link: "how-it-works",
+                },
+              ],
+            },
+            {
               text: "Nemo's Paintings",
               base: "/projects/minecraft-mods/nemos-paintings/",
               collapsed: true,
