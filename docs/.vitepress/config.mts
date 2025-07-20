@@ -61,6 +61,21 @@ export default defineConfig({
               ],
             },
             {
+              text: "Nemo's Enchantments",
+              base: "/projects/minecraft-mods/nemos-enchantments/",
+              collapsed: true,
+              items: [
+                {
+                  text: "General",
+                  link: "general",
+                },
+                {
+                  text: "Enchantments",
+                  link: "enchantments",
+                },
+              ],
+            },
+            {
               text: "Nemo's Inventory Sorting",
               base: "/projects/minecraft-mods/nemos-inventory-sorting/",
               collapsed: true,
