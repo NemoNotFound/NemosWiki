@@ -18,10 +18,10 @@ hero:
       link: /third-party
 
 features:
-  - title: Minecraft Mods
+  - title: Minecraft Mod Documentation
     details: Making Minecraft mods is more than a hobby — it’s my passion. Every mod deserves a wiki to tell its story!
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: App Documentation
+    details: I haven’t created any yet, but I plan to add some in the future.
   - title: Third-Party Documentation
     details: If I find documentation insufficient, I aim to provide a clearer and more complete version.
 ---
