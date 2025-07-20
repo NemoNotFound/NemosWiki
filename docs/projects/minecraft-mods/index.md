@@ -22,6 +22,9 @@ hero:
       text: Nemo's Paintings
       link: projects/minecraft-mods/nemos-paintings/general
     - theme: alt
+      text: Nemo's Tags
+      link: projects/minecraft-mods/nemos-tags/general
+    - theme: alt
       text: Nemo's Woodcutter
       link: projects/minecraft-mods/nemos-woodcutter/general
 ---

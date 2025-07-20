@@ -125,6 +125,33 @@ export default defineConfig({
               ],
             },
             {
+              text: "Nemo's Tags",
+              base: "/projects/minecraft-mods/nemos-tags/",
+              collapsed: true,
+              items: [
+                {
+                  text: "General",
+                  link: "general",
+                },
+                {
+                  text: "Custom Bars, Panes & Walls",
+                  link: "custom-bars-panes-and-walls",
+                },
+                {
+                  text: "Custom Buckets",
+                  link: "custom-buckets",
+                },
+                {
+                  text: "Custom Rails",
+                  link: "custom-rails",
+                },
+                {
+                  text: "Custom Shears",
+                  link: "custom-shears",
+                },
+              ],
+            },
+            {
               text: "Nemo's Woodcutter",
               base: "/projects/minecraft-mods/nemos-woodcutter/",
               collapsed: true,

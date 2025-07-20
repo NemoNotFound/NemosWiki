@@ -60,7 +60,7 @@ Now, you can break crops in an area of A x A x A, where A = 2 \* Enchantment Lev
 
 ## Magma Walker
 
-Walk over lava to turn it into magma blocks!
+Turns lava into magma as you walk over it!
 
 | Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with          |
 | ------------- | ---------- | ------------- | ----------------------------- | ------------------------ | ---------------------------- |
