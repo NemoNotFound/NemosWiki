@@ -34,7 +34,7 @@ export default defineConfig({
       "/projects/": [
         {
           text: "Minecraft Mods",
-          collapsed: false,
+          collapsed: true,
           items: [
             {
               text: "Nemo's Campfires",
@@ -124,6 +124,33 @@ export default defineConfig({
               ],
             },
             {
+              text: "Nemo's Mossy Blocks",
+              base: "/projects/minecraft-mods/nemos-mossy-blocks/",
+              collapsed: true,
+              items: [
+                {
+                  text: "General",
+                  link: "general",
+                },
+                {
+                  text: "Blocks",
+                  link: "blocks",
+                },
+                {
+                  text: "Items",
+                  link: "items",
+                },
+                {
+                  text: "Biome Changes",
+                  link: "biome-changes",
+                },
+                {
+                  text: "Gallery",
+                  link: "gallery",
+                },
+              ],
+            },
+            {
               text: "Nemo's Night Progression",
               base: "/projects/minecraft-mods/nemos-night-progression/",
               collapsed: true,
@@ -148,12 +175,12 @@ export default defineConfig({
                   link: "general",
                 },
                 {
-                  text: "Gallery",
-                  link: "gallery",
-                },
-                {
                   text: "Submit Images",
                   link: "submit-images",
+                },
+                {
+                  text: "Gallery",
+                  link: "gallery",
                 },
               ],
             },

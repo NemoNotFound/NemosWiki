@@ -22,6 +22,9 @@ hero:
       text: Nemo's Mending
       link: projects/minecraft-mods/nemos-mending/general
     - theme: alt
+      text: Nemo's Mossy Blocks
+      link: projects/minecraft-mods/nemos-mossy-blocks/general
+    - theme: alt
       text: Nemo's Night Progression
       link: projects/minecraft-mods/nemos-night-progression/general
     - theme: alt
