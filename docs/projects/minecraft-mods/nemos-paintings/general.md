@@ -11,8 +11,6 @@ It adds a mix of silly and stylish paintings!
 
 ## Requirements
 
-### General
-
 ### For Fabric Users
 
 You’ll need to install the [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to use this mod.
