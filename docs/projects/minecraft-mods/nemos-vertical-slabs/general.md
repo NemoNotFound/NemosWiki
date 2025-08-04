@@ -2,15 +2,11 @@
 outline: deep
 ---
 
-# Nemo's Woodcutter
+# Nemo's Vertical Slabs
 
-With the Woodcutter you can do everything that a Stonecutter does, just for wood!
+**Nemo’s Vertical Slabs** adds vertical variants for every slab block in the game. If a block has a slab, it gets a vertical slab too.
 
 <!--@include: @/../templates/minecraft-note.md-->
-
-::: info
-💡 If you're a dark mode enthusiast, you can use the built-in dark mode resource pack.
-:::
 
 ## Requirements
 
@@ -20,11 +16,11 @@ You’ll need to install the [Fabric API](https://www.curseforge.com/minecraft/m
 
 ## Source Code
 
-You can view the source code [here](https://github.com/NemoNotFound/NemosWoodcutter).
+You can view the source code [here](https://github.com/NemoNotFound/NemosVerticalSlabs).
 
 ## Support
 
 Need help or have a question? I’m happy to assist you!
 
 - Join the [Discord server](https://discord.com/invite/yxs9dga)
-- Or open an issue [on GitHub](https://github.com/NemoNotFound/NemosWoodcutter/issues)
+- Or open an issue [on GitHub](https://github.com/NemoNotFound/NemosVerticalSlabs/issues)

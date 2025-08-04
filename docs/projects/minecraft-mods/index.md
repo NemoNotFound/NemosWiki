@@ -34,6 +34,9 @@ hero:
       text: Nemo's Tags
       link: projects/minecraft-mods/nemos-tags/general
     - theme: alt
+      text: Nemo's Vertical Slabs
+      link: projects/minecraft-mods/nemos-vertical-slabs/general
+    - theme: alt
       text: Nemo's Woodcutter
       link: projects/minecraft-mods/nemos-woodcutter/general
 ---

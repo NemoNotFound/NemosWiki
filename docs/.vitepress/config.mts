@@ -212,6 +212,25 @@ export default defineConfig({
               ],
             },
             {
+              text: "Nemo's Vertical Slabs",
+              base: "/projects/minecraft-mods/nemos-vertical-slabs/",
+              collapsed: true,
+              items: [
+                {
+                  text: "General",
+                  link: "general",
+                },
+                {
+                  text: "Gallery",
+                  link: "gallery",
+                },
+                {
+                  text: "Supported Mods",
+                  link: "supported-mods",
+                },
+              ],
+            },
+            {
               text: "Nemo's Woodcutter",
               base: "/projects/minecraft-mods/nemos-woodcutter/",
               collapsed: true,
