@@ -68,9 +68,18 @@ Turns lava into magma as you walk over it!
 
 ## Snow Walker
 
-You were born to run.  
-Now, you'll walk and run faster than ever.
+The cold never bothered you.
+Now, even powdered snow can’t stop you.
 
 | Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
 | ------------- | ---------- | ------------- | ----------------------------- | ------------------------ | ------------------- |
 | 1             | 2          | Boots         | Yes                           | Yes                      |                     |
+
+## Collector
+
+Why let loot touch the ground?
+It comes straight to you — like it should.
+
+| Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
+| ------------- | ---------- | ------------- | ----------------------------- | ------------------------ | ------------------- |
+| 1             | 4          | All Items     | Yes                           | Yes                      |                     |
