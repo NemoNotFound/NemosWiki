@@ -62,6 +62,15 @@ Now, you can break crops in an area of A x A x A, where A = 2 \* Enchantment Lev
 
 Turns lava into magma as you walk over it!
 
-| Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with          |
-| ------------- | ---------- | ------------- | ----------------------------- | ------------------------ | ---------------------------- |
-| 1             | 4          | Foot Armor    | No                            | Yes                      | Depth Strider & Frost Walker |
+| Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
+| ------------- | ---------- | ------------- | ----------------------------- | ------------------------ | ------------------- |
+| 1             | 2          | Foot Armor    | No                            | Yes                      |                     |
+
+## Snow Walker
+
+You were born to run.  
+Now, you'll walk and run faster than ever.
+
+| Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
+| ------------- | ---------- | ------------- | ----------------------------- | ------------------------ | ------------------- |
+| 1             | 2          | Boots         | Yes                           | Yes                      |                     |
