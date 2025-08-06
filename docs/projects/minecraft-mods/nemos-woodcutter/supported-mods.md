@@ -2,20 +2,20 @@
 outline: deep
 ---
 
-# Mod Compatibilities
+# Supported Mods
 
-## How to Add Recipes
-
-You can add custom woodcutting recipes using **data packs**.  
-Below is a list of supported mods.
+**Nemo's Woodcutter** includes built-in recipes for several mods.   
+Check out the supported mods below.
 
 ::: info
-Learn how to create your own recipes [here](create-custom-woodcutting-recipes).
-
-If you're using an **older version** of Nemo’s Woodcutter, some recipes are already bundled with the mod.
+If you’d like to create your own recipes, check out [this guide](create-custom-recipes).
 :::
 
-## Data Packs <Badge type="tip" text=">=1.21.4" />
+## Built-In Recipes
+
+_Coming soon_
+
+## Data Packs <Badge type="tip" text=">=1.21.4" /> <Badge type="danger" text="deprecated" />
 
 These mods are supported through **data packs** in versions **1.21.4** and above:
 
@@ -23,7 +23,7 @@ These mods are supported through **data packs** in versions **1.21.4** and above
 | -------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | Forstride | [CurseForge](https://curseforge.com/minecraft/data-packs/nemos-woodcutter-recipes-biomes-o-plenty), [Modrinth](https://modrinth.com/datapack/nemos-woodcutter-recipes-biomes-o-plenty) | 1.21.4+            |
 
-## Built-In Recipes <Badge type="tip" text="<1.21.4" /> <Badge type="danger" text="deprecated" />
+## Built-In Recipes (Fabric) <Badge type="tip" text="<1.21.4" /> <Badge type="danger" text="deprecated" />
 
 These mods are supported **out of the box** in versions prior to 1.21.4:
 
