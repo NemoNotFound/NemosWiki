@@ -68,7 +68,7 @@ Turns lava into magma as you walk over it!
 
 ## Snow Walker
 
-The cold never bothered you.
+The cold never bothered you.    
 Now, even powdered snow can’t stop you.
 
 | Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
@@ -77,7 +77,7 @@ Now, even powdered snow can’t stop you.
 
 ## Collector
 
-Why let loot touch the ground?
+Why let loot touch the ground?    
 It comes straight to you — like it should.
 
 | Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
