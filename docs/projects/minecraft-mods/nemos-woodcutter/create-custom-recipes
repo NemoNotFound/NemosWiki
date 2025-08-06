@@ -2,9 +2,10 @@
 outline: deep
 ---
 
-# Create Custom Woodcutting Recipes
+# Create Custom Recipes
 
 This page explains how to create woodcutting recipes for your mod or data pack.
+You can create custom woodcutting recipes either manually or through data generation.
 
 ::: info
 The following applies to Minecraft version **1.21.2** or higher.
