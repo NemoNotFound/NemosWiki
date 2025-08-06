@@ -244,8 +244,8 @@ export default defineConfig({
                   link: "create-custom-recipes",
                 },
                 {
-                  text: "Mod Compatibilities",
-                  link: "mod-compatibilities",
+                  text: "Supported Mods",
+                  link: "supported-mods",
                 },
               ],
             },
