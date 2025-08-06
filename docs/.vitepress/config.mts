@@ -240,8 +240,8 @@ export default defineConfig({
                   link: "general",
                 },
                 {
-                  text: "Create Custom Woodcutting Recipes",
-                  link: "create-custom-woodcutting-recipes",
+                  text: "Create Custom Recipes",
+                  link: "create-custom-recipes",
                 },
                 {
                   text: "Mod Compatibilities",
