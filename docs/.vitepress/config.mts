@@ -94,6 +94,17 @@ export default defineConfig({
               ],
             },
             {
+              text: "Nemo's Firework Keybinding",
+              base: "/projects/minecraft-mods/nemos-firework-keybinding/",
+              collapsed: true,
+              items: [
+                {
+                  text: "General",
+                  link: "general",
+                },
+              ],
+            },
+            {
               text: "Nemo's Inventory Sorting",
               base: "/projects/minecraft-mods/nemos-inventory-sorting/",
               collapsed: true,

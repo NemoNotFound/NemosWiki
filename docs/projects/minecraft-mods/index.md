@@ -19,6 +19,9 @@ hero:
       text: Nemo's Enchantments
       link: projects/minecraft-mods/nemos-enchantments/general
     - theme: alt
+      text: Nemo's Firework Keybinding
+      link: projects/minecraft-mods/nemos-firework-keybinding/general
+    - theme: alt
       text: Nemo's Mending
       link: projects/minecraft-mods/nemos-mending/general
     - theme: alt
