@@ -29,7 +29,6 @@ These mods are supported **out of the box** in versions prior to 1.21.4:
 | [Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored)                              | UHQGAMES       | 1.19.2 - 1.20.4    |
 | [Better Archeology](https://www.curseforge.com/minecraft/mc-mods/better-archeology)                                | Pandarix       | 1.20.1 - 1.20.4    |
 | [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)                                   | Forstride      | 1.19.2 - 1.21      |
-| [Danger Close](https://www.curseforge.com/minecraft/mc-mods/danger-close)                                          | Lupin          | 1.19.2 - 1.21      |
 | [More Chest Variants (MCV)](https://modrinth.com/mod/more-chest-variants-lieonlion)                                | LieOnLion      | 1.19.2 - 1.21      |
 | [More Crafting Tables (MCT)](https://modrinth.com/mod/more-crafting-tables-lieonlion)                              | LieOnLion      | 1.20.1 - 1.21      |
 | [More Composter Variants](https://modrinth.com/mod/more-composter-variants)                                        | pnku           | 1.20.1 - 1.21      |
