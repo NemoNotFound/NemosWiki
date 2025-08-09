@@ -13,9 +13,10 @@ If you’d like to create your own recipes, check out [this guide](create-custom
 
 ## Built-In Recipes
 
-| Mod                                                                              | Author    | Added in Version |
-| -------------------------------------------------------------------------------- | --------- | ---------------- |
-| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | Forstride | 1.13             |
+| Mod                                                                                    | Author         | Added in Version |
+| -------------------------------------------------------------------------------------- | -------------- | ---------------- |
+| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)       | Forstride      | 1.13             |
+| [Nemo's Mossy Blocks](https://www.curseforge.com/minecraft/mc-mods/nemos-mossy-blocks) | DevNemo _(me)_ | 1.14             |
 
 ## Built-In Recipes (Fabric) <Badge type="tip" text="<1.21.4" /> <Badge type="danger" text="deprecated" />
 
