@@ -4,7 +4,7 @@ outline: deep
 
 # Supported Mods
 
-**Nemo's Woodcutter** includes built-in recipes for several mods.   
+**Nemo's Woodcutter** includes built-in recipes for several mods.  
 Check out the supported mods below.
 
 ::: info
@@ -13,15 +13,9 @@ If you’d like to create your own recipes, check out [this guide](create-custom
 
 ## Built-In Recipes
 
-_Coming soon_
-
-## Data Packs <Badge type="tip" text=">=1.21.4" /> <Badge type="danger" text="deprecated" />
-
-These mods are supported through **data packs** in versions **1.21.4** and above:
-
-| Mod                                                                              | Author    | Data Pack                                                                                                                                                                              | Supported Versions |
-| -------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | Forstride | [CurseForge](https://curseforge.com/minecraft/data-packs/nemos-woodcutter-recipes-biomes-o-plenty), [Modrinth](https://modrinth.com/datapack/nemos-woodcutter-recipes-biomes-o-plenty) | 1.21.4+            |
+| Mod                                                                              | Author    | Added in Version |
+| -------------------------------------------------------------------------------- | --------- | ---------------- |
+| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | Forstride | 1.13             |
 
 ## Built-In Recipes (Fabric) <Badge type="tip" text="<1.21.4" /> <Badge type="danger" text="deprecated" />
 
