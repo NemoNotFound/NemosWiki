@@ -68,7 +68,7 @@ Turns lava into magma as you walk over it!
 
 ## Snow Walker
 
-The cold never bothered you.    
+The cold never bothered you.  
 Now, even powdered snow can’t stop you.
 
 | Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
@@ -77,9 +77,19 @@ Now, even powdered snow can’t stop you.
 
 ## Collector
 
-Why let loot touch the ground?    
+Why let loot touch the ground?  
 It comes straight to you — like it should.
 
 | Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
 | ------------- | ---------- | ------------- | ----------------------------- | ------------------------ | ------------------- |
 | 1             | 4          | All Items     | Yes                           | Yes                      |                     |
+
+## Wisdom
+
+The experience you gain makes you wiser – and wisdom grants you even more experience.
+
+To be precise: you earn _(Enchantment Level + 1)_ times more experience when killing mobs with a weapon, bow, or crossbow, as well as when breaking blocks.
+
+| Maximum Level | Anvil Cost             | Applicable To                    | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
+| ------------- | ---------------------- | -------------------------------- | ----------------------------- | ------------------------ | ------------------- |
+| 3             | 5 \* Enchantment Level | Tools, Weapons, Bows & Crossbows | No                            | Yes                      |                     |
