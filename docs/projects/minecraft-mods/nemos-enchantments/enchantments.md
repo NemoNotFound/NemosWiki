@@ -7,11 +7,13 @@ outline: deep
 ## Soul Binding
 
 Your equipment is bound to your soul.  
-Not even death will make you lose this item.
+Even death won’t make you lose this item.
+
+### Details
 
 | Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
 | ------------- | ---------- | ------------- | ----------------------------- | ------------------------ | ------------------- |
-| 1             | 30         | All Items     | No                            | Yes                      | Curses              |
+| 1             | 20         | All Items     | No                            | No                       | Curses              |
 
 ## Climber
 
@@ -27,14 +29,26 @@ Now, you can climb ladders and scaffolding faster.
 You were born to run.  
 Now, you'll walk and run faster than ever.
 
+### Details
+
 | Maximum Level | Anvil Cost             | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
 | ------------- | ---------------------- | ------------- | ----------------------------- | ------------------------ | ------------------- |
 | 3             | 2 \* Enchantment Level | Boots         | Yes                           | Yes                      |                     |
+
+### Level Details
+
+Increases your movement speed by the following amounts:
+
+| I      | II     | III    |
+| ------ | ------ | ------ |
+| + 0.02 | + 0.04 | + 0.06 |
 
 ## Farmer's Knowledge
 
 Your farming experience has made you wiser.  
 Now, you can break crops only when they're mature.
+
+### Details
 
 | Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
 | ------------- | ---------- | ------------- | ----------------------------- | ------------------------ | ------------------- |
@@ -45,6 +59,8 @@ Now, you can break crops only when they're mature.
 Your laziness has made you efficient.  
 Now, when breaking crops, you replant them automatically.
 
+### Details
+
 | Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
 | ------------- | ---------- | ------------- | ----------------------------- | ------------------------ | ------------------- |
 | 1             | 4          | Hoes          | Yes                           | Yes                      |                     |
@@ -54,13 +70,25 @@ Now, when breaking crops, you replant them automatically.
 Breaking one crop after another is not enough for you.  
 Now, you can break crops in an area of A x A x A, where A = 2 \* Enchantment Level + 1.
 
+### Details
+
 | Maximum Level | Anvil Cost             | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
 | ------------- | ---------------------- | ------------- | ----------------------------- | ------------------------ | ------------------- |
 | 3             | 2 \* Enchantment Level | Hoes          | Yes                           | Yes                      |                     |
 
+### Level Details
+
+Increases the harvested area depending on its level:
+
+| I     | II    | III   |
+| ----- | ----- | ----- |
+| 3x3x3 | 5x5x5 | 7x7x7 |
+
 ## Magma Walker
 
 Turns lava into magma as you walk over it!
+
+### Details
 
 | Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
 | ------------- | ---------- | ------------- | ----------------------------- | ------------------------ | ------------------- |
@@ -71,6 +99,8 @@ Turns lava into magma as you walk over it!
 The cold never bothered you.  
 Now, even powdered snow can’t stop you.
 
+### Details
+
 | Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
 | ------------- | ---------- | ------------- | ----------------------------- | ------------------------ | ------------------- |
 | 1             | 2          | Boots         | Yes                           | Yes                      |                     |
@@ -80,16 +110,26 @@ Now, even powdered snow can’t stop you.
 Why let loot touch the ground?  
 It comes straight to you — like it should.
 
+### Details
+
 | Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
 | ------------- | ---------- | ------------- | ----------------------------- | ------------------------ | ------------------- |
 | 1             | 4          | All Items     | Yes                           | Yes                      |                     |
 
 ## Wisdom
 
-The experience you gain makes you wiser – and wisdom grants you even more experience.
+The experience you gain makes you wiser – and wisdom grants you even more experience when breaking blocks.
 
-To be precise: you earn _(Enchantment Level + 1)_ times more experience when killing mobs with a weapon, bow, or crossbow, as well as when breaking blocks.
+### Details
 
 | Maximum Level | Anvil Cost             | Applicable To                    | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
 | ------------- | ---------------------- | -------------------------------- | ----------------------------- | ------------------------ | ------------------- |
-| 3             | 5 \* Enchantment Level | Tools, Weapons, Bows & Crossbows | No                            | Yes                      |                     |
+| 3             | 5 \* Enchantment Level | Tools, Weapons, Bows & Crossbows | No                            | No                       |                     |
+
+### Level Details
+
+Experience gain is multiplied by:
+
+| I     | II  | III |
+| ----- | --- | --- |
+| ~ 1.5x | 2x  | 3x  |
