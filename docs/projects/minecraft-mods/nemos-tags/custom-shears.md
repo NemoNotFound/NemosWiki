@@ -24,7 +24,7 @@ Any item in the `shears` item tag now can interact with:
 This change is **Fabric-only**, as **NeoForge** and **Forge** already support custom shears out of the box.
 :::
 
-::: tip Note  
+::: tip NOTE  
 To make your shears work with dispensers, you must register them manually.
 :::
 

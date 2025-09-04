@@ -6,7 +6,7 @@ outline: deep
 
 This page explains how to add custom bucket support for various in-game behaviors like milking, filling, emptying, and dispenser usage.
 
-::: tip Note
+::: tip NOTE
 
 - For cauldron interactions, see the `CauldronInteraction` class.
 - To allow custom water buckets to pick up entities (like axolotls or fish), you must implement this behavior yourself.

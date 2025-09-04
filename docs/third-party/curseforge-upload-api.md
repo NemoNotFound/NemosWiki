@@ -1,16 +1,15 @@
 ---
-title: CurseForge Upload API
 outline: deep
 ---
 
-# {{ $frontmatter.title }}
+# CurseForge Upload API
 
 The CurseForge API allows users to automate the management of their projects and retrieve data such as game versions, dependencies, and more from CurseForge.
 
 ::: info
 All URIs are relative to the site the project is hosted on (e.g., https://minecraft.curseforge.com), unless stated otherwise.
 :::
-::: warning ⚠️ **Disclaimer**  
+::: warning DISCLAIMER
 This API documentation is **not official**.  
 It may become outdated without my knowledge. If you notice anything incorrect or outdated, please let me know via [GitHub](https://github.com/NemoNotFound).
 
@@ -25,7 +24,7 @@ To use the CurseForge Upload API, you first need to generate an API token.
 2. Give the token a recognizable name and generate it.
 3. Copy the token and store it securely - you'll need it for authentication in your API requests.
 
-::: danger Caution
+::: danger CAUTION
 ⚠️ **Keep your token private.** If exposed, revoke and regenerate it immediately.
 :::
 
@@ -44,7 +43,7 @@ Alternatively, append the token as a query parameter:
 `?token=your_token_here`
 
 ::: warning
-⚠️ **Note:** Use HTTPS to ensure your token is transmitted securely.
+⚠️ Use **HTTPS** to ensure your token is transmitted securely.
 :::
 
 ## Project Upload File API

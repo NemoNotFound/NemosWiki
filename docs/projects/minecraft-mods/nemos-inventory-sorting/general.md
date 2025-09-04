@@ -9,7 +9,7 @@ Sort your inventory, move all matching or all items, or drop everything at once 
 
 You can even filter and highlight items in containers by typing part of their name!
 
-::: warning Disclaimer
+::: warning DISCLAIMER
 This is a **client-only mod**, which means it can give you an advantage over other players.  
 Using it on public servers _may_ get you banned depending on the server’s rules.  
 Use at your own risk — or check with the server admins beforehand.

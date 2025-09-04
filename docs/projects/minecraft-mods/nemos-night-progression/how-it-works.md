@@ -6,7 +6,7 @@ outline: deep
 
 This page explains how **Nemo's Night Progression** functions behind the scenes.
 
-::: info Note
+::: info NOTE
 If you're not familiar with modding or programming concepts, some parts might be a bit technical.
 :::
 

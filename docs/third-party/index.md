@@ -9,4 +9,7 @@ hero:
     - theme: brand
       text: CurseForge Upload API
       link: third-party/curseforge-upload-api
+    - theme: alt
+      text: Minecraft Modding
+      link: third-party/minecraft-modding/general
 ---

@@ -7,7 +7,7 @@ outline: deep
 As the name suggests, this mod adds a keybinding for using fireworks while flying!       
 It was originally created at the request of the community, and I hope you enjoy it!
 
-::: warning Disclaimer
+::: warning DISCLAIMER
 This is a **client-only mod**, which means it can give you an advantage over other players.  
 Using it on public servers _may_ get you banned depending on the server’s rules.  
 Use at your own risk — or check with the server admins beforehand.
