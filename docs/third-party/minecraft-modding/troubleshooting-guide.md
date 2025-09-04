@@ -12,15 +12,14 @@ If you're looking for a specific error message, use **Ctrl + F** (or **Cmd + F**
 :::
 
 ::: tip NOTE
-Each issue includes a badge showing the version in which I encountered it.  
-This does **not** mean that the issue or solution only applies to that version.
+Each issue includes badges showing the **version** and **mod loader** where I encountered it.
 
-If you discover that an issue or solution also applies to other versions, feel free to let me know so I can update it.
+This does **not** automatically mean the issue or solution applies *only* to that version or loader — but in some cases, it might.
+
+If you find that it also applies to other versions or loaders, please let me know so I can update it.
 :::
 
-## This registry can't create intrusive holders <Badge type="tip" text="1.21.8" />
-
-### Fabric
+## This registry can't create intrusive holders <Badge type="warning" text="Fabric" /> <Badge type="tip" text="1.21.8" />
 
 This issue occurs when an item, block, or entity is registered at an unexpected point in time.
 The most common cause is that the registration class was not initialized statically.
