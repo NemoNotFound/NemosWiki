@@ -37,6 +37,25 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                         {
+                            text: "Nemo's Backpacks",
+                            base: "/projects/minecraft-mods/nemos-backpacks/",
+                            collapsed: true,
+                            items: [
+                                {
+                                    text: "General",
+                                    link: "general",
+                                },
+                                {
+                                    text: "Loot Tables",
+                                    link: "loot-tables",
+                                },
+                                {
+                                    text: "Gallery",
+                                    link: "gallery",
+                                },
+                            ],
+                        },
+                        {
                             text: "Nemo's Campfires",
                             base: "/projects/minecraft-mods/nemos-campfires/",
                             collapsed: true,

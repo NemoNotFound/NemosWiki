@@ -10,6 +10,9 @@ hero:
       text: Nemo's Inventory Sorting
       link: projects/minecraft-mods/nemos-inventory-sorting/general
     - theme: alt
+      text: Nemo's Backpacks
+      link: projects/minecraft-mods/nemos-backpacks/general
+    - theme: alt
       text: Nemo's Campfires
       link: projects/minecraft-mods/nemos-campfires/general
     - theme: alt
