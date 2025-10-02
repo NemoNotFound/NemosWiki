@@ -17,7 +17,7 @@ With Nemo’s Backpacks you get:
     - Diamond → 45 slots
     - Netherite → 54 slots
 
-Backpacks can be upgraded using Upgrade Smithing Templates, which can be found throughout the world.
+Backpacks are crafted with 8 leather surrounding a string, and can be upgraded using Upgrade Smithing Templates found throughout the world.
 Upgrades must be applied step by step – you can’t skip directly to higher tiers!
 
 <!--@include: @/../templates/minecraft-note.md-->
