@@ -10,15 +10,18 @@ The configs are stored in a JSON file under `configs/nemos-inventory-sorting`. <
 There, you'll find a list of configs structured as follows:
 
 ```json
+[
   {
-  "componentName": "sort_storage_container",
-  "isEnabled": true,
-  "xOffset": 100,
-  "rightXOffset": -5,
-  "yOffset": 5,
-  "width": 11,
-  "height": 11
-}
+    "componentName": "sort_storage_container",
+    "isEnabled": true,
+    "xOffset": 100,
+    "rightXOffset": -5,
+    "yOffset": 5,
+    "width": 11,
+    "height": 11
+  },
+  ...
+]
 ```
 
 ### Config Fields
