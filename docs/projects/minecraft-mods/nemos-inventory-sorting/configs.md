@@ -10,39 +10,36 @@ The configs are stored in a JSON file under `configs/nemos-inventory-sorting`. <
 There, you'll find a list of configs structured as follows:
 
 ```json
-[
   {
-    "componentName": "sort_storage_container",
-    "isEnabled": true,
-    "xOffset": 100,
-    "rightXOffset": -5,
-    "yOffset": 5,
-    "width": 11,
-    "height": 11
-  },
-  ...
-]
+  "componentName": "sort_storage_container",
+  "isEnabled": true,
+  "xOffset": 100,
+  "rightXOffset": -5,
+  "yOffset": 5,
+  "width": 11,
+  "height": 11
+}
 ```
 
 ### Config Fields
 
 - **componentName**
-  - Specifies which component should be configured.
-  - If the name doesn't match any pre-configured name, the config will be ignored.
+    - Specifies which component should be configured.
+    - If the name doesn't match any pre-configured name, the config will be ignored.
 - **isEnabled**
-  - Determines whether the component is enabled (visible) or not.
+    - Determines whether the component is enabled (visible) or not.
 - **xOffset**
-  - Sets the X offset, starting from the left side.
+    - Sets the X offset, starting from the left side.
 - **rightXOffset**
-  - Optional
-  - Sets the X offset, starting from the right side. Ignored if xOffset is defined.
+    - Optional
+    - Sets the X offset, starting from the right side. Ignored if xOffset is defined.
 - **yOffset**
-  - Sets the Y offset, starting from the top.
+    - Sets the Y offset, starting from the top.
 - **width**
-  - Defines the component's width.
+    - Defines the component's width.
 - **height**
-  - Defines the component's height.
-    <br><br>
+    - Defines the component's height.
+      <br><br>
 
 ## Default Configs
 
@@ -224,6 +221,7 @@ To partially reset the config, manually update the values using the default conf
 
 ### Complete Reset
 
-To completely reset the config, either update the values using the default config or simply delete the `config.json` file located in `configs/nemos-inventory-sorting`. <br>
+To completely reset the config, either update the values using the default config or simply delete the `config.json`
+file located in `configs/nemos-inventory-sorting`. <br>
 If there is no config file, the default values will be taken.
 After restarting Minecraft, the config file will be generated again.
