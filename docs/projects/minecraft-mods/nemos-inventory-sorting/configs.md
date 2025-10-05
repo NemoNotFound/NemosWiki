@@ -15,7 +15,7 @@ There, you'll find a list of configs structured as follows:
     "componentName": "sort_storage_container",
     "isEnabled": true,
     "xOffset": 100,
-    "rightXOffset": -5, // Offset from the right side; ignored if xOffset is defined.
+    "rightXOffset": -5,
     "yOffset": 5,
     "width": 11,
     "height": 11
@@ -33,6 +33,9 @@ There, you'll find a list of configs structured as follows:
   - Determines whether the component is enabled (visible) or not.
 - **xOffset**
   - Sets the X offset, starting from the left side.
+- **rightXOffset**
+  - Optional
+  - Sets the X offset, starting from the right side. Ignored if xOffset is defined.
 - **yOffset**
   - Sets the Y offset, starting from the top.
 - **width**
