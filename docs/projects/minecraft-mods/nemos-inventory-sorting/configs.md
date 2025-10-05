@@ -15,6 +15,7 @@ There, you'll find a list of configs structured as follows:
     "componentName": "sort_storage_container",
     "isEnabled": true,
     "xOffset": 100,
+    "rightXOffset": -5, // Offset from the right side; ignored if xOffset is defined.
     "yOffset": 5,
     "width": 11,
     "height": 11
@@ -49,60 +50,60 @@ There, you'll find a list of configs structured as follows:
   {
     "componentName": "sort_storage_container",
     "isEnabled": true,
-    "xOffset": 100,
-    "yOffset": 5,
+    "rightXOffset": -61,
+    "yOffset": -6,
     "width": 11,
     "height": 11
   },
   {
     "componentName": "move_same_storage_container",
     "isEnabled": true,
-    "xOffset": 118,
-    "yOffset": 5,
+    "rightXOffset": -47,
+    "yOffset": -6,
     "width": 11,
     "height": 11
   },
   {
     "componentName": "move_all_storage_container",
     "isEnabled": true,
-    "xOffset": 136,
-    "yOffset": 5,
+    "rightXOffset": -33,
+    "yOffset": -6,
     "width": 11,
     "height": 11
   },
   {
     "componentName": "drop_all_storage_container",
     "isEnabled": true,
-    "xOffset": 154,
-    "yOffset": 5,
+    "rightXOffset": -19,
+    "yOffset": -6,
     "width": 11,
     "height": 11
   },
   {
     "componentName": "sort_storage_container_inventory",
     "isEnabled": true,
-    "xOffset": 100,
+    "rightXOffset": -61,
     "width": 11,
     "height": 11
   },
   {
     "componentName": "move_same_storage_container_inventory",
     "isEnabled": true,
-    "xOffset": 118,
+    "rightXOffset": -47,
     "width": 11,
     "height": 11
   },
   {
     "componentName": "move_all_storage_container_inventory",
     "isEnabled": true,
-    "xOffset": 136,
+    "rightXOffset": -33,
     "width": 11,
     "height": 11
   },
   {
     "componentName": "drop_all_storage_container_inventory",
     "isEnabled": true,
-    "xOffset": 154,
+    "rightXOffset": -19,
     "width": 11,
     "height": 11
   },
