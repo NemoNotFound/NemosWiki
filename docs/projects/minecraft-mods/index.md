@@ -19,6 +19,9 @@ hero:
       text: Nemo's Copper
       link: projects/minecraft-mods/nemos-copper/general
     - theme: alt
+      text: Nemo's Creatures
+      link: projects/minecraft-mods/nemos-creatures/general
+    - theme: alt
       text: Nemo's Enchantments
       link: projects/minecraft-mods/nemos-enchantments/general
     - theme: alt

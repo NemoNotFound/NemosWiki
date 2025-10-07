@@ -17,11 +17,11 @@ You’ll need to install the [Fabric API](https://www.curseforge.com/minecraft/m
 
 ## Source Code
 
-You can view the source code [here](https://github.com/NemoNotFound/NemosPaintings).
+You can view the source code [here](https://github.com/NemoOnGH/NemosPaintings).
 
 ## Support
 
 Need help or have a question? I’m happy to assist you!
 
 - Join the [Discord server](https://discord.com/invite/yxs9dga)
-- Or open an issue [on GitHub](https://github.com/NemoNotFound/NemosPaintings/issues)
+- Or open an issue [on GitHub](https://github.com/NemoOnGH/NemosPaintings/issues)

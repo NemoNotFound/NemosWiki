@@ -11,7 +11,7 @@ All URIs are relative to the site the project is hosted on (e.g., https://minecr
 :::
 ::: warning DISCLAIMER
 This API documentation is **not official**.  
-It may become outdated without my knowledge. If you notice anything incorrect or outdated, please let me know via [GitHub](https://github.com/NemoNotFound).
+It may become outdated without my knowledge. If you notice anything incorrect or outdated, please let me know via [GitHub](https://github.com/NemoOnGH).
 
 For the official (but less detailed) documentation, visit [CurseForge Upload API - Official Documentation](https://support.curseforge.com/en/support/solutions/articles/9000197321-curseforge-upload-api).
 :::

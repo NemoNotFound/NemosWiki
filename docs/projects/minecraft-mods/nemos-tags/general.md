@@ -19,11 +19,11 @@ You’ll need to install the [Fabric API](https://www.curseforge.com/minecraft/m
 
 ## Source Code
 
-You can view the source code [here](https://github.com/NemoNotFound/NemosTags).
+You can view the source code [here](https://github.com/NemoOnGH/NemosTags).
 
 ## Support
 
 Need help or have a question? I’m happy to assist you!
 
 - Join the [Discord server](https://discord.com/invite/yxs9dga)
-- Or open an issue [on GitHub](https://github.com/NemoNotFound/NemosTags/issues)
+- Or open an issue [on GitHub](https://github.com/NemoOnGH/NemosTags/issues)

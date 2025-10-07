@@ -16,7 +16,7 @@ The following applies to Minecraft version **1.21.2** or higher.
 If you want to add many recipes or keep them easy to maintain between version updates, I recommend using data generation.
 Below, I’ll show you how to implement data generation for **Fabric**, **NeoForge**, and **Forge**.
 
-Also, make sure to check out the helper methods available in the [WoodcutterRecipeProvider](https://github.com/NemoNotFound/NemosWoodcutter/blob/master/common/src/main/java/com/nemonotfound/nemos/woodcutter/datagen/WoodcutterRecipeProvider.java)!
+Also, make sure to check out the helper methods available in the [WoodcutterRecipeProvider](https://github.com/NemoOnGH/NemosWoodcutter/blob/master/common/src/main/java/com/nemonotfound/nemos/woodcutter/datagen/WoodcutterRecipeProvider.java)!
 
 ### Fabric
 

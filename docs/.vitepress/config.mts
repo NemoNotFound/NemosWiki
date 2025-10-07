@@ -7,7 +7,7 @@ export default defineConfig({
             "link",
             {
                 rel: "icon",
-                href: "https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/svg/logo.svg?raw=true",
+                href: "https://github.com/NemoOnGH/NemoNotFound/blob/master/resources/svg/logo.svg?raw=true",
             },
         ],
     ],
@@ -16,7 +16,7 @@ export default defineConfig({
     title: "Nemo's Wiki",
     description: "All of Nemo's Wiki in one place",
     themeConfig: {
-        logo: "https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/svg/logo.svg?raw=true",
+        logo: "https://github.com/NemoOnGH/NemoNotFound/blob/master/resources/svg/logo.svg?raw=true",
         nav: [
             {text: "Home", link: "/"},
             {text: "Projects", link: "/projects"},
@@ -27,7 +27,7 @@ export default defineConfig({
         },
         editLink: {
             pattern:
-                "https://github.com/NemoNotFound/NemosWiki/tree/master/docs/:path",
+                "https://github.com/NemoOnGH/NemosWiki/tree/master/docs/:path",
             text: "Edit this page on GitHub",
         },
         sidebar: {
@@ -90,6 +90,33 @@ export default defineConfig({
                                 {
                                     text: "Entities",
                                     link: "entities",
+                                },
+                                {
+                                    text: "Gallery",
+                                    link: "gallery",
+                                },
+                            ],
+                        },
+                        {
+                            text: "Nemo's Creatures",
+                            base: "/projects/minecraft-mods/nemos-creatures/",
+                            collapsed: true,
+                            items: [
+                                {
+                                    text: "General",
+                                    link: "general",
+                                },
+                                {
+                                    text: "Mobs",
+                                    link: "mobs",
+                                },
+                                {
+                                    text: "Blocks",
+                                    link: "blocks",
+                                },
+                                {
+                                    text: "Items",
+                                    link: "items",
                                 },
                                 {
                                     text: "Gallery",
@@ -316,7 +343,7 @@ export default defineConfig({
         },
 
         socialLinks: [
-            {icon: "github", link: "https://github.com/NemoNotFound/NemosWiki"},
+            {icon: "github", link: "https://github.com/NemoOnGH/NemosWiki"},
             {icon: "modrinth", link: "https://modrinth.com/user/DevNemo"},
             {
                 icon: "curseforge",
