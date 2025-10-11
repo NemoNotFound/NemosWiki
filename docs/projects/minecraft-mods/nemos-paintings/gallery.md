@@ -65,3 +65,10 @@ _By Pnku_
 The Nether Wastes. Will you survive the heat, or be consumed by the raging flames?
 
 _By [ChemDrop](https://www.curseforge.com/members/chemdrop/projects)_
+
+## Cat's Sunset
+
+![Cat's Sunset](https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/minecraft_projects/galleries/nemos_paintings/cats_sunset.png?raw=true)  
+A cat admiring the sunset, would you like to join?
+
+_By Seli_
