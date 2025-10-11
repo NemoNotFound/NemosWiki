@@ -7,8 +7,9 @@ outline: deep
 **Nemo's Inventory Sorting** is a _client-side_ mod that adds buttons to your inventory GUI.  
 Sort your inventory, move all matching or all items, or drop everything at once — all with a single click.
 
-You can even filter and highlight items in containers by typing part of their name!
-Quickly filter items by pressing **Ctrl + F** (or **Command + F** on macOS).
+You can even filter and highlight items in containers by typing part of their name! 
+Quickly filter items by pressing **Ctrl + F** (or **Command + F** on macOS).    
+You can change the key binding in the settings.
 
 ::: warning DISCLAIMER
 This is a **client-only mod**, which means it can give you an advantage over other players.  
