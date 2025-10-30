@@ -5,7 +5,7 @@
 Connect with others, ask questions, share feedback, or stay up to date with my projects.
 I'm always happy to welcome new members!
 
-[![Join my Discord](https://github.com/NemoOnGH/NemoNotFound/blob/master/resources/svg/join_discord_button.svg?raw=true)](https://discord.com/invite/yxs9dga)
+[![Join my Discord](https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/svg/join_discord_button.svg?raw=true)](https://discord.com/invite/yxs9dga)
 
 ## Support Me
 
