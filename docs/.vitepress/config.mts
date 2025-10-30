@@ -53,6 +53,10 @@ export default defineConfig({
                   text: "Gallery",
                   link: "gallery",
                 },
+                {
+                  text: "Creating Resource Packs",
+                  link: "creating-resource-packs",
+                },
               ],
             },
             {
