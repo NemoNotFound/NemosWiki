@@ -114,7 +114,7 @@ It comes straight to you — like it should.
 
 | Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
 |---------------|------------|---------------|-------------------------------|--------------------------|---------------------|
-| 1             | 4          | All Items     | Yes                           | Yes                      |                     |
+| 1             | 4          | Mining Tools  | Yes                           | Yes                      |                     |
 
 ## Wisdom
 
@@ -122,9 +122,9 @@ The experience you gain makes you wiser – and wisdom grants you even more expe
 
 ### Details
 
-| Maximum Level | Anvil Cost             | Applicable To                    | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
-|---------------|------------------------|----------------------------------|-------------------------------|--------------------------|---------------------|
-| 3             | 5 \* Enchantment Level | Tools, Weapons, Bows & Crossbows | No                            | No                       |                     |
+| Maximum Level | Anvil Cost             | Applicable To   | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
+|---------------|------------------------|-----------------|-------------------------------|--------------------------|---------------------|
+| 3             | 5 \* Enchantment Level | Tools & Weapons | No                            | No                       |                     |
 
 ### Level Details
 
