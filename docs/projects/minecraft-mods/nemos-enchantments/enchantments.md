@@ -122,17 +122,17 @@ The experience you gain makes you wiser – and wisdom grants you even more expe
 
 ### Details
 
-| Maximum Level | Anvil Cost             | Applicable To   | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
-|---------------|------------------------|-----------------|-------------------------------|--------------------------|---------------------|
-| 3             | 5 \* Enchantment Level | Tools & Weapons | No                            | No                       |                     |
+| Maximum Level | Anvil Cost             | Applicable To                    | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
+|---------------|------------------------|----------------------------------|-------------------------------|--------------------------|---------------------|
+| 3             | 5 \* Enchantment Level | Tools, Weapons, Bows & Crossbows | No                            | No                       |                     |
 
 ### Level Details
 
 Experience gain is multiplied by:
 
-| I      | II | III |
-|--------|----|-----|
-| ~ 1.5x | 2x | 3x  |
+| I         | II | III       |
+|-----------|----|-----------|
+| 1x - 1.5x | 2x | 2x - 2.5x |
 
 ## Lumberjack (WIP)
 
