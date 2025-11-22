@@ -6,7 +6,7 @@
 This is my moderator on Twitch and the reason I created this mod.  
 It all started as a silly, funny idea!
 
-_By DevNemo_
+_By Nemo_
 
 ## Nemo's Portrait
 
@@ -14,21 +14,21 @@ _By DevNemo_
 That's just me.
 Hang it above your bed if you dare!
 
-_By DevNemo_
+_By Nemo_
 
 ## Beach
 
 ![Beach](https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/minecraft_projects/galleries/nemos_paintings/beach.png?raw=true)  
 The endless stretch of golden sand, the rhythmic crash of waves — Honestly, I just draw like a child.
 
-_By DevNemo_
+_By Nemo_
 
 ## Crimson
 
 ![Crimson](https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/minecraft_projects/galleries/nemos_paintings/crimson.png?raw=true)  
 A fiery burst of red.
 
-_By DevNemo_
+_By Nemo_
 
 ## Crimson Claw
 

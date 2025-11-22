@@ -8,7 +8,7 @@ hero:
   tagline: First read, then ask
   image:
     src: https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/svg/logo.svg?raw=true
-    alt: DevNemo
+    alt: NemoNotFound
   actions:
     - theme: brand
       text: Projects

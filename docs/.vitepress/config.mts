@@ -310,6 +310,25 @@ export default defineConfig({
                 },
               ],
             },
+            {
+              text: "Nemo's Quartz",
+              base: "/projects/minecraft-mods/nemos-quartz/",
+              collapsed: true,
+              items: [
+                {
+                  text: "General",
+                  link: "general",
+                },
+                {
+                  text: "Recipes",
+                  link: "recipes",
+                },
+                {
+                  text: "Gallery",
+                  link: "gallery",
+                },
+              ],
+            },
           ],
         },
         {
@@ -348,14 +367,14 @@ export default defineConfig({
 
     socialLinks: [
       { icon: "github", link: "https://github.com/NemoNotFound/NemosWiki" },
-      { icon: "modrinth", link: "https://modrinth.com/user/DevNemo" },
+      { icon: "modrinth", link: "https://modrinth.com/user/nemonotfound" },
       {
         icon: "curseforge",
-        link: "https://www.curseforge.com/members/devnemo/projects",
+        link: "https://www.curseforge.com/members/nemonotfound/projects",
       },
       {
         icon: "kofi",
-        link: "https://ko-fi.com/devnemo",
+        link: "https://ko-fi.com/nemonotfound",
       },
     ],
   },

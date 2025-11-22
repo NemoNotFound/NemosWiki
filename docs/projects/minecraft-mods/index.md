@@ -48,4 +48,7 @@ hero:
     - theme: alt
       text: Nemo's Woodcutter
       link: projects/minecraft-mods/nemos-woodcutter/general
+    - theme: alt
+      text: Nemo's Quartz
+      link: projects/minecraft-mods/nemos-quartz/general
 ---

@@ -16,8 +16,8 @@ If you’d like to create your own recipes, check out [this guide](create-custom
 | Mod                                                                                        | Author         | Added in Version |
 |--------------------------------------------------------------------------------------------|----------------|------------------|
 | [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)           | Forstride      | 1.13             |
-| [Nemo's Mossy Blocks](https://www.curseforge.com/minecraft/mc-mods/nemos-mossy-blocks)     | DevNemo _(me)_ | 1.14             |
-| [Nemo's Vertical Slabs](https://www.curseforge.com/minecraft/mc-mods/nemos-vertical-slabs) | DevNemo _(me)_ | 1.14.1           |
+| [Nemo's Mossy Blocks](https://www.curseforge.com/minecraft/mc-mods/nemos-mossy-blocks)     | Nemo _(me)_ | 1.14             |
+| [Nemo's Vertical Slabs](https://www.curseforge.com/minecraft/mc-mods/nemos-vertical-slabs) | Nemo _(me)_ | 1.14.1           |
 
 ## Built-In Recipes (Fabric) <Badge type="tip" text="<1.21.4" /> <Badge type="danger" text="deprecated" />
 
@@ -25,7 +25,7 @@ These mods are supported **out of the box** in versions prior to 1.21.4:
 
 | Mod                                                                                                                | Author         | Supported Versions |
 |--------------------------------------------------------------------------------------------------------------------|----------------|--------------------|
-| [Nemo's Mossy Blocks](https://www.curseforge.com/minecraft/mc-mods/nemos-mossy-blocks)                             | DevNemo _(me)_ | 1.20.1 - 1.21.1    |
+| [Nemo's Mossy Blocks](https://www.curseforge.com/minecraft/mc-mods/nemos-mossy-blocks)                             | Nemo _(me)_ | 1.20.1 - 1.21.1    |
 | [More Slabs, Stairs, and Walls](https://www.curseforge.com/minecraft/mc-mods/more-slabs-stairs-and-walls)          | Nibaru         | 1.19.2 - 1.20.4    |
 | [Oh The Biomes You'll Go Refabricated](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric) | AOCAWOL        | 1.19.2             |
 | [Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored)                              | UHQGAMES       | 1.19.2 - 1.20.4    |
