@@ -7,8 +7,8 @@ hero:
   tagline: Wikis for my Minecraft Mods
   actions:
     - theme: brand
-      text: Nemo's Sorting
-      link: projects/minecraft-mods/nemos-sorting/general
+      text: Nemo's Inventory Sorting
+      link: projects/minecraft-mods/nemos-inventory-sorting/general
     - theme: alt
       text: Nemo's Backpacks
       link: projects/minecraft-mods/nemos-backpacks/general

@@ -2,9 +2,9 @@
 outline: deep
 ---
 
-# Nemo's Sorting
+# Nemo's Inventory Sorting
 
-**Nemo's Sorting** is a _client-side_ mod that adds buttons to your inventory GUI.  
+**Nemo's Inventory Sorting** is a _client-side_ mod that adds buttons to your inventory GUI.  
 Sort your inventory, move all matching or all items, or drop everything at once — all with a single click.
 
 You can even filter and highlight items in containers by typing part of their name!
@@ -25,7 +25,7 @@ Use at your own risk — or check with the server admins beforehand.
 
 ### Compatibility
 
-Nemo's Sorting is compatible with **Iron Chests** _(since version 1.11)_.
+Nemo's Inventory Sorting is compatible with **Iron Chests** _(since version 1.11)_.
 
 ## Requirements
 
@@ -35,11 +35,11 @@ Nemo's Sorting is compatible with **Iron Chests** _(since version 1.11)_.
 
 ## Source Code
 
-You can view the source code [here](https://github.com/NemoNotFound/NemosSorting).
+You can view the source code [here](https://github.com/NemoNotFound/NemosInventorySorting).
 
 ## Support
 
 Need help or have a question? I’m happy to assist you!
 
 - Join the [Discord server](https://discord.com/invite/yxs9dga)
-- Or open an issue on [GitHub](https://github.com/NemoNotFound/NemosSorting/issues)
+- Or open an issue on [GitHub](https://github.com/NemoNotFound/NemosInventorySorting/issues)
