@@ -155,8 +155,8 @@ export default defineConfig({
               ],
             },
             {
-              text: "Nemo's Inventory Sorting",
-              base: "/projects/minecraft-mods/nemos-inventory-sorting/",
+              text: "Nemo's Sorting",
+              base: "/projects/minecraft-mods/nemos-sorting/",
               collapsed: true,
               items: [
                 {

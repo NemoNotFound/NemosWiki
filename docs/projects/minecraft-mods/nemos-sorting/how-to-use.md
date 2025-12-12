@@ -6,7 +6,7 @@ outline:deep
 
 ## Sorting
 
-With **Nemo's Inventory Sorting**, you get buttons to sort items, move identical or all items, and drop items.
+With **Nemo's Sorting**, you get buttons to sort items, move identical or all items, and drop items.
 
 There are two ways to use these buttons:
 
