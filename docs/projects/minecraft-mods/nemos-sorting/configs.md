@@ -6,7 +6,7 @@ outline: deep
 
 ## Structure
 
-The configs are stored in a JSON file under `configs/nemos-sorting`. <br>
+The configs are stored in a JSON file under either `configs/nemos-inventory-sorting` (odler versions) or `configs/nemos-sorting`. <br>
 There, you'll find a list of configs structured as follows:
 
 ```json
@@ -225,6 +225,6 @@ To partially reset the config, manually update the values using the default conf
 ### Complete Reset
 
 To completely reset the config, either update the values using the default config or simply delete the `config.json`
-file located in `configs/nemos-sorting`. <br>
+file located in either `configs/nemos-inventory-sorting` (older versions) or `configs/nemos-sorting`. <br>
 If there is no config file, the default values will be taken.
 After restarting Minecraft, the config file will be generated again.
