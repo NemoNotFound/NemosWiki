@@ -8,7 +8,8 @@ outline: deep
 Sort your inventory, move all matching or all items, or drop everything at once — all with a single click.
 
 You can even filter and highlight items in containers by typing part of their name!
-Quickly filter items by pressing **Ctrl + F** (or **Command + F** on macOS).
+Quickly filter items by pressing **Ctrl + F** (or **Command + F** on macOS).  
+You can change the key binding in the settings.
 
 ::: warning DISCLAIMER
 This is a **client-only mod**, which means it can give you an advantage over other players.  
@@ -28,17 +29,17 @@ Nemo's Inventory Sorting is compatible with **Iron Chests** _(since version 1.11
 
 ## Requirements
 
-### For Fabric Users
+### Fabric
 
-You’ll need to install the [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to use this mod.
+- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
 ## Source Code
 
-You can view the source code [here](https://github.com/NemoOnGH/NemosInventorySorting).
+You can view the source code [here](https://github.com/NemoNotFound/NemosInventorySorting).
 
 ## Support
 
 Need help or have a question? I’m happy to assist you!
 
 - Join the [Discord server](https://discord.com/invite/yxs9dga)
-- Or open an issue [on GitHub](https://github.com/NemoOnGH/NemosInventorySorting/issues)
+- Or open an issue on [GitHub](https://github.com/NemoNotFound/NemosInventorySorting/issues)

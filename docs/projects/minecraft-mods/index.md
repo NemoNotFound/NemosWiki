@@ -13,6 +13,9 @@ hero:
       text: Nemo's Backpacks
       link: projects/minecraft-mods/nemos-backpacks/general
     - theme: alt
+      text: Nemo's Blooming Blossom
+      link: projects/minecraft-mods/nemos-blooming-blossom/general
+    - theme: alt
       text: Nemo's Campfires
       link: projects/minecraft-mods/nemos-campfires/general
     - theme: alt
@@ -48,4 +51,7 @@ hero:
     - theme: alt
       text: Nemo's Woodcutter
       link: projects/minecraft-mods/nemos-woodcutter/general
+    - theme: alt
+      text: Nemo's Quartz
+      link: projects/minecraft-mods/nemos-quartz/general
 ---

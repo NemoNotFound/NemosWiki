@@ -7,7 +7,7 @@ export default defineConfig({
             "link",
             {
                 rel: "icon",
-                href: "https://github.com/NemoOnGH/NemoNotFound/blob/master/resources/svg/logo.svg?raw=true",
+                href: "https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/svg/logo.svg?raw=true",
             },
         ],
     ],
@@ -16,7 +16,7 @@ export default defineConfig({
     title: "Nemo's Wiki",
     description: "All of Nemo's Wiki in one place",
     themeConfig: {
-        logo: "https://github.com/NemoOnGH/NemoNotFound/blob/master/resources/svg/logo.svg?raw=true",
+        logo: "https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/svg/logo.svg?raw=true",
         nav: [
             {text: "Home", link: "/"},
             {text: "Projects", link: "/projects"},
@@ -27,7 +27,7 @@ export default defineConfig({
         },
         editLink: {
             pattern:
-                "https://github.com/NemoOnGH/NemosWiki/tree/master/docs/:path",
+                "https://github.com/NemoNotFound/NemosWiki/tree/master/docs/:path",
             text: "Edit this page on GitHub",
         },
         sidebar: {
@@ -48,6 +48,25 @@ export default defineConfig({
                                 {
                                     text: "Loot Tables",
                                     link: "loot-tables",
+                                },
+                                {
+                                    text: "Gallery",
+                                    link: "gallery",
+                                },
+                                {
+                                    text: "Creating Resource Packs",
+                                    link: "creating-resource-packs",
+                                },
+                            ],
+                        },
+                        {
+                            text: "Nemo's Blooming Blossom",
+                            base: "/projects/minecraft-mods/nemos-blooming-blossom/",
+                            collapsed: true,
+                            items: [
+                                {
+                                    text: "General",
+                                    link: "general",
                                 },
                                 {
                                     text: "Gallery",
@@ -306,6 +325,25 @@ export default defineConfig({
                                 },
                             ],
                         },
+                        {
+                            text: "Nemo's Quartz",
+                            base: "/projects/minecraft-mods/nemos-quartz/",
+                            collapsed: true,
+                            items: [
+                                {
+                                    text: "General",
+                                    link: "general",
+                                },
+                                {
+                                    text: "Recipes",
+                                    link: "recipes",
+                                },
+                                {
+                                    text: "Gallery",
+                                    link: "gallery",
+                                },
+                            ],
+                        },
                     ],
                 },
                 {
@@ -332,26 +370,26 @@ export default defineConfig({
                         {
                             text: "Troubleshooting Guide",
                             link: "troubleshooting-guide",
-                        }
-                    ]
+                        },
+                    ],
                 },
                 {
                     text: "Community & Support",
                     link: "community-and-support",
                 },
-            ]
+            ],
         },
 
         socialLinks: [
-            {icon: "github", link: "https://github.com/NemoOnGH/NemosWiki"},
-            {icon: "modrinth", link: "https://modrinth.com/user/DevNemo"},
+            {icon: "github", link: "https://github.com/NemoNotFound/NemosWiki"},
+            {icon: "modrinth", link: "https://modrinth.com/user/nemonotfound"},
             {
                 icon: "curseforge",
-                link: "https://www.curseforge.com/members/devnemo/projects",
+                link: "https://www.curseforge.com/members/nemonotfound/projects",
             },
             {
                 icon: "kofi",
-                link: "https://ko-fi.com/devnemo",
+                link: "https://ko-fi.com/nemonotfound",
             },
         ],
     },

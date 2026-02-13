@@ -4,7 +4,7 @@ outline: deep
 
 # Nemo's Firework Keybinding
 
-As the name suggests, this mod adds a keybinding for using fireworks while flying!       
+As the name suggests, this mod adds a keybinding for using fireworks while flying!  
 It was originally created at the request of the community, and I hope you enjoy it!
 
 ::: warning DISCLAIMER
@@ -17,17 +17,17 @@ Use at your own risk — or check with the server admins beforehand.
 
 ## Requirements
 
-### For Fabric Users
+### Fabric
 
-You’ll need to install the [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to use this mod.
+- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
 ## Source Code
 
-You can view the source code [here](https://github.com/NemoOnGH/NemosFireworkKeybinding).
+You can view the source code [here](https://github.com/NemoNotFound/NemosFireworkKeybinding).
 
 ## Support
 
 Need help or have a question? I’m happy to assist you!
 
 - Join the [Discord server](https://discord.com/invite/yxs9dga)
-- Or open an issue [on GitHub](https://github.com/NemoOnGH/NemosFireworkKeybinding/issues)
+- Or open an issue on [GitHub](https://github.com/NemoNotFound/NemosFireworkKeybinding/issues)

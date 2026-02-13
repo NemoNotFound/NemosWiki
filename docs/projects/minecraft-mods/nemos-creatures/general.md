@@ -10,15 +10,17 @@ outline: deep
 
 ## Requirements
 
-You’ll need to install the [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to use this mod.
+### Fabric
+
+- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
 ## Source Code
 
-You can view the source code [here](https://github.com/NemoOnGH/NemosCreatures).
+You can view the source code [here](https://github.com/NemoNotFound/NemosCreatures).
 
 ## Support
 
 Need help or have a question? I’m happy to assist you!
 
 - Join the [Discord server](https://discord.com/invite/yxs9dga)
-- Or open an issue [on GitHub](https://github.com/NemoOnGH/NemosCreatures/issues)
+- Or open an issue on [GitHub](https://github.com/NemoNotFound/NemosCreatures/issues)

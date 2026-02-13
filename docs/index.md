@@ -7,8 +7,8 @@ hero:
   text: "All you need to know – in one place"
   tagline: First read, then ask
   image:
-    src: https://github.com/NemoOnGH/NemoNotFound/blob/master/resources/svg/logo.svg?raw=true
-    alt: DevNemo
+    src: https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/svg/logo.svg?raw=true
+    alt: NemoNotFound
   actions:
     - theme: brand
       text: Projects

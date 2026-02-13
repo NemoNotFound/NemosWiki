@@ -114,7 +114,7 @@ It comes straight to you — like it should.
 
 | Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
 |---------------|------------|---------------|-------------------------------|--------------------------|---------------------|
-| 1             | 4          | All Items     | Yes                           | Yes                      |                     |
+| 1             | 4          | Mining Tools  | Yes                           | Yes                      |                     |
 
 ## Wisdom
 
@@ -130,17 +130,6 @@ The experience you gain makes you wiser – and wisdom grants you even more expe
 
 Experience gain is multiplied by:
 
-| I      | II | III |
-|--------|----|-----|
-| ~ 1.5x | 2x | 3x  |
-
-## Lumberjack (WIP)
-
-Chopping one log at a time is too slow.
-With this enchantment, breaking a single log fells the entire tree at once.
-
-### Details
-
-| Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
-|---------------|------------|---------------|-------------------------------|--------------------------|---------------------|
-| 1             | 5          | Axes          | No                            | Yes                      |                     |
+| I         | II | III       |
+|-----------|----|-----------|
+| 1x - 1.5x | 2x | 2x - 2.5x |

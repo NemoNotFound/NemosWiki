@@ -54,7 +54,7 @@ There, you'll find a list of configs structured as follows:
     "componentName": "sort_storage_container",
     "isEnabled": true,
     "rightXOffset": -61,
-    "yOffset": -6,
+    "yOffset": 5,
     "width": 11,
     "height": 11
   },
@@ -62,7 +62,7 @@ There, you'll find a list of configs structured as follows:
     "componentName": "move_same_storage_container",
     "isEnabled": true,
     "rightXOffset": -47,
-    "yOffset": -6,
+    "yOffset": 5,
     "width": 11,
     "height": 11
   },
@@ -70,7 +70,7 @@ There, you'll find a list of configs structured as follows:
     "componentName": "move_all_storage_container",
     "isEnabled": true,
     "rightXOffset": -33,
-    "yOffset": -6,
+    "yOffset": 5,
     "width": 11,
     "height": 11
   },
@@ -78,7 +78,7 @@ There, you'll find a list of configs structured as follows:
     "componentName": "drop_all_storage_container",
     "isEnabled": true,
     "rightXOffset": -19,
-    "yOffset": -6,
+    "yOffset": 5,
     "width": 11,
     "height": 11
   },
