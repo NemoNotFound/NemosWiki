@@ -92,7 +92,7 @@ Turns lava into magma as you walk over it!
 
 | Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
 |---------------|------------|---------------|-------------------------------|--------------------------|---------------------|
-| 1             | 2          | Foot Armor    | No                            | Yes                      |                     |
+| 1             | 2          | Boots         | No                            | Yes                      |                     |
 
 ## Snow Walker
 
