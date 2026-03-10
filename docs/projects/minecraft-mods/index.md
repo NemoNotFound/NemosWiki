@@ -46,6 +46,9 @@ hero:
       text: Nemo's Tags
       link: projects/minecraft-mods/nemos-tags/general
     - theme: alt
+      text: Nemo's Upgrade Templates
+      link: projects/minecraft-mods/nemos-upgrade-templates/general
+    - theme: alt
       text: Nemo's Vertical Slabs
       link: projects/minecraft-mods/nemos-vertical-slabs/general
     - theme: alt
