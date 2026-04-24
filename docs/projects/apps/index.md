@@ -8,5 +8,5 @@ hero:
   actions:
     - theme: brand
       text: Don't Buy It
-      link: projects/apps/dont-buy-it
+      link: projects/apps/dont-buy-it/general
 ---
