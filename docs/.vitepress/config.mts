@@ -42,7 +42,7 @@ export default defineConfig({
                             collapsed: true,
                             items: {
                                 text: "General",
-                                link: "general"
+                                link: "general",
                             }
                         },
                     ],
