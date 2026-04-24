@@ -45,7 +45,7 @@ export default defineConfig({
                                 link: "general"
                             }
                         },
-                    ]
+                    ],
                 },
                 {
                     text: "Minecraft Mods",
