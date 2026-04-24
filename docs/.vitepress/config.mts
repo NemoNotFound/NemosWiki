@@ -32,21 +32,21 @@ export default defineConfig({
         },
         sidebar: {
             "/projects/": [
-                {
-                    text: "Apps",
-                    collapsed: true,
-                    items: [
-                        {
-                            text: "Don't Buy It",
-                            base: "/projects/apps/dont-buy-it/",
-                            collapsed: true,
-                            items: {
-                                text: "General",
-                                link: "general",
-                            }
-                        },
-                    ],
-                },
+                // {
+                //     text: "Apps",
+                //     collapsed: true,
+                //     items: [
+                //         {
+                //             text: "Don't Buy It",
+                //             base: "/projects/apps/dont-buy-it/",
+                //             collapsed: true,
+                //             items: {
+                //                 text: "General",
+                //                 link: "general",
+                //             }
+                //         },
+                //     ],
+                // },
                 {
                     text: "Minecraft Mods",
                     collapsed: true,
