@@ -44,7 +44,7 @@ export default defineConfig({
                                 text: "General",
                                 link: "general"
                             }
-                        }
+                        },
                     ]
                 },
                 {
