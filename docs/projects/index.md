@@ -9,4 +9,7 @@ hero:
     - theme: brand
       text: Minecraft Mods
       link: projects/minecraft-mods
+    - theme: alt
+      text: Apps
+      link: projects/apps
 ---

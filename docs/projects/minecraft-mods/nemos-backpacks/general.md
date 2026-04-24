@@ -21,6 +21,8 @@ With Nemo’s Backpacks you get:
  You can place your backpack in the **dedicated backpack slot**.  
  A **visual indicator** will display which backpack you currently have equipped.
 
+For more information about the upgrade templates, check [this](https://wiki.nemonotfound.com/projects/minecraft-mods/nemos-upgrade-templates/general).
+
 <!--@include: @/../templates/minecraft-note.md-->
 
 ## Crafting
@@ -47,6 +49,7 @@ Upgrades must be applied step by step – you can’t skip directly to higher ti
 ### Fabric
 
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+- [Nemo's Upgrade Templates](https://www.curseforge.com/minecraft/mc-mods/nemos-upgrade-templates)
 
 ## Source Code
 

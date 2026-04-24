@@ -43,6 +43,9 @@ hero:
       text: Nemo's Paintings
       link: projects/minecraft-mods/nemos-paintings/general
     - theme: alt
+      text: Nemo's Progression
+      link: projects/minecraft-mods/nemos-progression/general
+    - theme: alt
       text: Nemo's Tags
       link: projects/minecraft-mods/nemos-tags/general
     - theme: alt
