@@ -38,7 +38,7 @@ export default defineConfig({
                     items: [
                         {
                             text: "Don't Buy It",
-                            base: "projects/apps/dont-buy-it/",
+                            base: "/projects/apps/dont-buy-it/",
                             collapsed: true,
                             items: {
                                 text: "General",
