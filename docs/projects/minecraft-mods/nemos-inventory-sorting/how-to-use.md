@@ -28,6 +28,11 @@ Click outside the search bar to stop searching.
 You can also perform a quick search by pressing **Ctrl + F** (or **Command + F** on macOS). 
 You can change the key binding in the settings.
 
+## Lock Slots
+
+To lock slots from sorting, use **Alt + Click** (or **Option + Click** on macOS).
+To display locked slots, hold **Alt**.
+
 ## Enable Dark Mode
 
 To enable dark mode, activate the **Dark Mode** resource pack.
