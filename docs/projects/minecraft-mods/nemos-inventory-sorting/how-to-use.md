@@ -31,7 +31,7 @@ You can change the key binding in the settings.
 ## Lock Slots
 
 To lock slots from sorting, use **Alt + Click** (or **Option + Click** on macOS).
-To display locked slots, hold **Alt**.
+To display locked slots, hold **Alt** (or **Option** on macOS).
 
 ## Enable Dark Mode
 
