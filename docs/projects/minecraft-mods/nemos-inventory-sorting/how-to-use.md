@@ -33,6 +33,10 @@ You can change the key binding in the settings.
 To lock slots from sorting, use **Alt + Click/Drag** (or **Option + Click/Drag** on macOS).
 To display locked slots, hold **Alt** (or **Option** on macOS).
 
+## Quickly move items
+
+Quickly moving items can be done by **Shift + Drag**.
+
 ## Enable Dark Mode
 
 To enable dark mode, activate the **Dark Mode** resource pack.

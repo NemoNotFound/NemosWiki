@@ -23,6 +23,16 @@ Use at your own risk — or check with the server admins beforehand.
 💡 If you're a dark mode enthusiast, you can use the built-in dark mode resource pack.
 :::
 
+### Features
+
+- Sort inventories
+- Move matching items between inventories
+- Move all items between inventories
+- Drop all items from an inventory
+- Lock slots to prevent sorting, moving and dropping
+- Search & highlight items
+- Quick move items with **Shift + Drag**
+
 ### Compatibility
 
 Nemo's Inventory Sorting is compatible with: 
