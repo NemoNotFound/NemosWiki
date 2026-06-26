@@ -28,6 +28,25 @@ Click outside the search bar to stop searching.
 You can also perform a quick search by pressing **Ctrl + F** (or **Command + F** on macOS). 
 You can change the key binding in the settings.
 
+### Filter by (Custom) Name
+- `Golden`
+- `Diamond Sword`
+- `Super Cool Sword`
+
+### Filter by Tooltip (Enchantment, Music Disc Song, Potions)
+- `Sharpness`
+- `Efficiency V`
+- `Hyper Potions - Lava Chicken`
+- `Lava Chicken`
+- `Invisibility`
+
+### Filter by Item Tag
+- `#minecraft:planks`
+- `#nemos:planks`
+
+### Filter for multiple items
+- `Stick,#minecraft:planks`
+
 ## Lock Slots
 
 To lock slots from sorting, use **Alt + Click/Drag** (or **Option + Click/Drag** on macOS).
