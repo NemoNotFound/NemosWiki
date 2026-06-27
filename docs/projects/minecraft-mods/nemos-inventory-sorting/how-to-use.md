@@ -52,9 +52,15 @@ You can change the key binding in the settings.
 To lock slots from sorting, use **Alt + Click/Drag** (or **Option + Click/Drag** on macOS).
 To display locked slots, hold **Alt** (or **Option** on macOS).
 
-## Quickly move items
+## Quick Move Items
 
-Quickly moving items can be done by **Shift + Drag**.
+- **Shift + Drag**: quick-move hovered items
+- **Shift + Right-Click/Drag**: quick-move half items
+- **Scroll Up/Down**: move one item between inventory/container or inventory/hotbar
+
+::: tip Note
+Split and scroll actions keep at least one item in the source slot.
+:::
 
 ## Enable Dark Mode
 

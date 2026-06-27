@@ -32,6 +32,9 @@ Use at your own risk — or check with the server admins beforehand.
 - Lock slots to prevent sorting, moving and dropping
 - Search & highlight items
 - Quick move items with **Shift + Drag**
+- Quick move half items with **Shift + Right-Click/Drag**
+- Scroll transfer items between inventory/container or inventory/hotbar
+- Built-in dark mode resource pack
 
 ### Compatibility
 
