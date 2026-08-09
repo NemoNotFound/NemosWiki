@@ -138,7 +138,9 @@ Experience gain is multiplied by:
 
 One swing is enough to bring down the whole tree.
 
-When you break part of a tree with an enchanted axe, Felling also breaks the rest of that tree. Each block uses durability as if it had been mined normally, including the effects of Unbreaking. Felling stops early if the axe breaks.
+When you break part of a tree with an enchanted axe, Felling also breaks the rest of that tree.     
+Each block uses durability as if it had been mined normally, including the effects of Unbreaking.       
+Felling stops early if the axe breaks.
 
 ### Details
 
@@ -155,3 +157,37 @@ When you break part of a tree with an enchanted axe, Felling also breaks the res
 - Wide and irregular trees are supported, including 2x2 jungle and dark oak trees.
 - Azalea trees, mangrove roots, and muddy mangrove roots are supported.
 - At most 256 tree blocks are processed per use.
+
+## Head-Hunter
+
+Claim a trophy from your defeated enemies.
+
+Head-Hunter gives supported mobs and players a small chance to drop their head when killed.     
+It works with melee and ranged weapons, including arrows and thrown tridents.
+
+Head-Hunter is a treasure enchantment that can only be found in chests.     
+It cannot be obtained from the enchanting table or villagers, and applying higher levels at an anvil is intentionally expensive.
+
+### Details
+
+| Maximum Level | Anvil Cost             | Applicable To                                   | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
+|---------------|------------------------|-------------------------------------------------|-------------------------------|--------------------------|---------------------|
+| 3             | 6 \* Enchantment Level | Melee Weapons, Bows, Crossbows, Tridents, Maces | No                            | No                       |                     |
+
+### Level Details
+
+Chance for a supported enemy to drop its head:
+
+| I     | II    | III   |
+|-------|-------|-------|
+| 0.84% | 1.68% | 2.52% |
+
+### Possible Head Drops
+- player
+- zombie
+- skeleton
+- creeper
+- piglin
+- Ender Dragon
+
+Wither Skeleton skulls are excluded and continue to use their vanilla drop chance.
