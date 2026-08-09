@@ -133,3 +133,25 @@ Experience gain is multiplied by:
 | I         | II | III       |
 |-----------|----|-----------|
 | 1x - 1.5x | 2x | 2x - 2.5x |
+
+## Felling
+
+One swing is enough to bring down the whole tree.
+
+When you break part of a tree with an enchanted axe, Felling also breaks the rest of that tree. Each block uses durability as if it had been mined normally, including the effects of Unbreaking. Felling stops early if the axe breaks.
+
+### Details
+
+| Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
+|---------------|------------|---------------|-------------------------------|--------------------------|---------------------|
+| 1             | 10         | Axes          | Yes                           | Yes                      |                     |
+
+### What counts as a tree?
+
+- Tree blocks must be connected directly or diagonally.
+- All connected blocks must belong to the same wood family. For example, oak and birch trees are handled separately even when they touch.
+- Regular and stripped variants of the same wood are treated as one family.
+- Enough matching, non-persistent leaves must be nearby. Player-placed persistent leaves do not make a log structure count as a tree.
+- Wide and irregular trees are supported, including 2x2 jungle and dark oak trees.
+- Azalea trees, mangrove roots, and muddy mangrove roots are supported.
+- At most 256 tree blocks are processed per use.
