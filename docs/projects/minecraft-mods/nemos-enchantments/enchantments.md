@@ -4,149 +4,91 @@ outline: deep
 
 # Enchantments
 
-## Soul Binding
+A short info on where to find which enchantment:
 
-Your equipment is bound to your soul.  
-Even death won’t make you lose this item.
+| Enchantment        | Tradeable | Enchanting Table | Chest Loot |
+|--------------------|-----------|------------------|------------|
+| Camouflage         | Yes       | Yes              | No         |
+| Climber            | Yes       | Yes              | No         |
+| Collector          | Yes       | Yes              | Yes        |
+| Farmer's Knowledge | Yes       | Yes              | No         |
+| Felling            | Yes       | Yes              | No         |
+| Head-Hunter        | No        | No               | Yes        |
+| Magma Walker       | Yes       | No               | Yes        |
+| Reaper             | Yes       | Yes              | No         |
+| Replanting         | Yes       | Yes              | No         |
+| Snow Walker        | Yes       | Yes              | Yes        |
+| Soul Binding       | No        | No               | Yes        |
+| Soul Touch         | No        | No               | Yes        |
+| Sprinter           | Yes       | Yes              | No         |
+| Wisdom             | No        | No               | Yes        |
+
+## Camouflage
+
+Monsters start to think they need glasses. Why don't they see you properly?
+
+Each enchanted armor piece reduces the distance at which monsters can see you. The effect stacks across all worn armor pieces.
 
 ### Details
 
-| Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
-|---------------|------------|---------------|-------------------------------|--------------------------|---------------------|
-| 1             | 20         | All Items     | No                            | No                       | Curses              |
+| Maximum Level | Anvil Cost             | Applicable To | Not compatible with |
+|---------------|------------------------|---------------|---------------------|
+| 3             | 4 \* Enchantment Level | Armor         |                     |
+
+### Level Details
+
+Reduces monster visibility per enchanted armor piece by:
+
+| I   | II  | III |
+|-----|-----|-----|
+| 4%  | 8%  | 12% |
+
+A full set of level III armor reduces monster visibility by 48%.
 
 ## Climber
 
-Climbing is one of your favorite activities.  
+Climbing is one of your favorite activities.
 Now, you can climb ladders and scaffolding faster.
 
-| Maximum Level | Anvil Cost             | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
-|---------------|------------------------|---------------|-------------------------------|--------------------------|---------------------|
-| 3             | 2 \* Enchantment Level | Boots         | Yes                           | Yes                      |                     |
-
-## Sprinter
-
-You were born to run.  
-Now, you'll walk and run faster than ever.
-
-### Details
-
-| Maximum Level | Anvil Cost             | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
-|---------------|------------------------|---------------|-------------------------------|--------------------------|---------------------|
-| 3             | 2 \* Enchantment Level | Boots         | Yes                           | Yes                      |                     |
-
-### Level Details
-
-Increases your movement speed by the following amounts:
-
-| I      | II     | III    |
-|--------|--------|--------|
-| + 0.02 | + 0.04 | + 0.06 |
-
-## Farmer's Knowledge
-
-Your farming experience has made you wiser.  
-Now, you can break crops only when they're mature.
-
-### Details
-
-| Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
-|---------------|------------|---------------|-------------------------------|--------------------------|---------------------|
-| 1             | 4          | Hoes          | Yes                           | Yes                      |                     |
-
-## Replanting
-
-Your laziness has made you efficient.  
-Now, when breaking crops, you replant them automatically.
-
-### Details
-
-| Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
-|---------------|------------|---------------|-------------------------------|--------------------------|---------------------|
-| 1             | 4          | Hoes          | Yes                           | Yes                      |                     |
-
-## Reaper
-
-Breaking one crop after another is not enough for you.  
-Now, you can break crops in an area of A x A x A, where A = 2 \* Enchantment Level + 1.
-
-### Details
-
-| Maximum Level | Anvil Cost             | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
-|---------------|------------------------|---------------|-------------------------------|--------------------------|---------------------|
-| 3             | 2 \* Enchantment Level | Hoes          | Yes                           | Yes                      |                     |
-
-### Level Details
-
-Increases the harvested area depending on its level:
-
-| I     | II    | III   |
-|-------|-------|-------|
-| 3x3x3 | 5x5x5 | 7x7x7 |
-
-## Magma Walker
-
-Turns lava into magma as you walk over it!
-
-### Details
-
-| Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
-|---------------|------------|---------------|-------------------------------|--------------------------|---------------------|
-| 1             | 2          | Boots         | No                            | Yes                      |                     |
-
-## Snow Walker
-
-The cold never bothered you.  
-Now, even powdered snow can’t stop you.
-
-### Details
-
-| Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
-|---------------|------------|---------------|-------------------------------|--------------------------|---------------------|
-| 1             | 2          | Boots         | Yes                           | Yes                      |                     |
+| Maximum Level | Anvil Cost             | Applicable To | Not compatible with |
+|---------------|------------------------|---------------|---------------------|
+| 3             | 2 \* Enchantment Level | Boots         |                     |
 
 ## Collector
 
-Why let loot touch the ground?  
+Why let loot touch the ground?
 It comes straight to you — like it should.
 
 ### Details
 
-| Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
-|---------------|------------|---------------|-------------------------------|--------------------------|---------------------|
-| 1             | 4          | Mining Tools  | Yes                           | Yes                      |                     |
+| Maximum Level | Anvil Cost | Applicable To | Not compatible with |
+|---------------|------------|---------------|---------------------|
+| 1             | 4          | Mining Tools  |                     |
 
-## Wisdom
+## Farmer's Knowledge
 
-The experience you gain makes you wiser – and wisdom grants you even more experience when breaking blocks.
+Your farming experience has made you wiser.
+Now, you can break crops only when they're mature.
 
 ### Details
 
-| Maximum Level | Anvil Cost             | Applicable To                    | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
-|---------------|------------------------|----------------------------------|-------------------------------|--------------------------|---------------------|
-| 3             | 5 \* Enchantment Level | Tools, Weapons, Bows & Crossbows | No                            | No                       |                     |
-
-### Level Details
-
-Experience gain is multiplied by:
-
-| I         | II | III       |
-|-----------|----|-----------|
-| 1x - 1.5x | 2x | 2x - 2.5x |
+| Maximum Level | Anvil Cost | Applicable To | Not compatible with |
+|---------------|------------|---------------|---------------------|
+| 1             | 4          | Hoes          |                     |
 
 ## Felling
 
 One swing is enough to bring down the whole tree.
 
-When you break part of a tree with an enchanted axe, Felling also breaks the rest of that tree.     
-Each block uses durability as if it had been mined normally, including the effects of Unbreaking.       
+When you break part of a tree with an enchanted axe, Felling also breaks the rest of that tree.
+Each block uses durability as if it had been mined normally, including the effects of Unbreaking.
 Felling stops early if the axe breaks.
 
 ### Details
 
-| Maximum Level | Anvil Cost | Applicable To | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
-|---------------|------------|---------------|-------------------------------|--------------------------|---------------------|
-| 1             | 10         | Axes          | Yes                           | Yes                      |                     |
+| Maximum Level | Anvil Cost | Applicable To | Not compatible with |
+|---------------|------------|---------------|---------------------|
+| 1             | 10         | Axes          |                     |
 
 ### What counts as a tree?
 
@@ -162,17 +104,16 @@ Felling stops early if the axe breaks.
 
 Claim a trophy from your defeated enemies.
 
-Head-Hunter gives supported mobs and players a small chance to drop their head when killed.     
+Head-Hunter gives supported mobs and players a small chance to drop their head when killed.
 It works with melee and ranged weapons, including arrows and thrown tridents.
 
-Head-Hunter is a treasure enchantment that can only be found in chests.     
-It cannot be obtained from the enchanting table or villagers, and applying higher levels at an anvil is intentionally expensive.
+Applying higher levels at an anvil is intentionally expensive.
 
 ### Details
 
-| Maximum Level | Anvil Cost             | Applicable To                                   | Available in Enchanting Table | Tradeable with Villagers | Not compatible with |
-|---------------|------------------------|-------------------------------------------------|-------------------------------|--------------------------|---------------------|
-| 3             | 6 \* Enchantment Level | Melee Weapons, Bows, Crossbows, Tridents, Maces | No                            | No                       |                     |
+| Maximum Level | Anvil Cost             | Applicable To                                   | Not compatible with |
+|---------------|------------------------|-------------------------------------------------|---------------------|
+| 3             | 6 \* Enchantment Level | Melee Weapons, Bows, Crossbows, Tridents, Maces |                     |
 
 ### Level Details
 
@@ -191,3 +132,114 @@ Chance for a supported enemy to drop its head:
 - Ender Dragon
 
 Wither Skeleton skulls are excluded and continue to use their vanilla drop chance.
+
+## Magma Walker
+
+Turns lava into magma as you walk over it!
+
+### Details
+
+| Maximum Level | Anvil Cost | Applicable To | Not compatible with |
+|---------------|------------|---------------|---------------------|
+| 1             | 2          | Boots         |                     |
+
+## Reaper
+
+Breaking one crop after another is not enough for you.
+Now, you can break crops in an area of A x A x A, where A = 2 \* Enchantment Level + 1.
+
+### Details
+
+| Maximum Level | Anvil Cost             | Applicable To | Not compatible with |
+|---------------|------------------------|---------------|---------------------|
+| 3             | 2 \* Enchantment Level | Hoes          |                     |
+
+### Level Details
+
+Increases the harvested area depending on its level:
+
+| I     | II    | III   |
+|-------|-------|-------|
+| 3x3x3 | 5x5x5 | 7x7x7 |
+
+## Replanting
+
+Your laziness has made you efficient.
+Now, when breaking crops, you replant them automatically.
+
+### Details
+
+| Maximum Level | Anvil Cost | Applicable To | Not compatible with |
+|---------------|------------|---------------|---------------------|
+| 1             | 4          | Hoes          |                     |
+
+## Snow Walker
+
+The cold never bothered you.
+Now, even powdered snow can’t stop you.
+
+### Details
+
+| Maximum Level | Anvil Cost | Applicable To | Not compatible with |
+|---------------|------------|---------------|---------------------|
+| 1             | 2          | Boots         |                     |
+
+## Soul Binding
+
+Your equipment is bound to your soul.
+Even death won’t make you lose this item.
+
+### Details
+
+| Maximum Level | Anvil Cost | Applicable To | Not compatible with |
+|---------------|------------|---------------|---------------------|
+| 1             | 20         | All Items     | Curses              |
+
+## Soul Touch
+
+Souls can't be extracted from spawners? Who said that?
+
+Soul Touch allows a pickaxe to mine a mob spawner to be able to move it elsewhere.
+
+### Details
+
+| Maximum Level | Anvil Cost | Applicable To | Not compatible with |
+|---------------|------------|---------------|---------------------|
+| 1             | 20         | Pickaxes      |                     |
+
+## Sprinter
+
+You were born to run.
+Now, you'll walk and run faster than ever.
+
+### Details
+
+| Maximum Level | Anvil Cost             | Applicable To | Not compatible with |
+|---------------|------------------------|---------------|---------------------|
+| 3             | 2 \* Enchantment Level | Boots         |                     |
+
+### Level Details
+
+Increases your movement speed by the following amounts:
+
+| I      | II     | III    |
+|--------|--------|--------|
+| + 0.02 | + 0.04 | + 0.06 |
+
+## Wisdom
+
+The experience you gain makes you wiser – and wisdom grants you even more experience when breaking blocks.
+
+### Details
+
+| Maximum Level | Anvil Cost             | Applicable To                    | Not compatible with |
+|---------------|------------------------|----------------------------------|---------------------|
+| 3             | 5 \* Enchantment Level | Tools, Weapons, Bows & Crossbows |                     |
+
+### Level Details
+
+Experience gain is multiplied by:
+
+| I         | II | III       |
+|-----------|----|-----------|
+| 1x - 1.5x | 2x | 2x - 2.5x |
