@@ -17,6 +17,16 @@ Based on this duration, it simulates furnace activity during sleep. For each aff
 
 Internally, the mixin injects into the `AbstractFurnaceBlockEntity` logic and adds a custom method that gets called from the sleep progression logic. It calculates how many smelting ticks would have occurred and advances the furnace accordingly.
 
+## Mob Aging
+
+Ageable mobs progress by the same amount of in-game time skipped during sleep:
+
+- Baby mobs grow toward adulthood
+- Adult breeding cooldowns count down
+- Age-locked baby mobs remain age-locked and do not grow
+
+The mod updates each mob's age directly instead of simulating thousands of AI, movement, and entity ticks. It applies all but one of the skipped ticks when `AgeableMob.aiStep` begins; the normal `aiStep` then processes the final tick. This prevents mobs from aging one tick too far.
+
 ## Random Tick Speed
 
 When a player sleeps, the mod calculates how much in-game time is skipped until morning.  
