@@ -6,8 +6,15 @@ outline: deep
 
 ## Structure
 
-The configs are stored in a JSON file under `configs/nemos-inventory-sorting`. <br>
-There, you'll find a list of configs structured as follows:
+The configs are stored under `config/nemos-inventory-sorting`.
+
+- `components.json`: Component positions, sizes and visibility
+- `general.json`: Inventory behavior
+- `filter.json`: Persistent item filter
+- `locked-slots.json`: Locked inventory slots
+- `iron-chest-components.json`: Iron Chest component positions, sizes and visibility
+
+In `components.json`, you'll find a list of configs structured as follows:
 
 ```json
 [
@@ -45,6 +52,30 @@ There, you'll find a list of configs structured as follows:
       <br><br>
 
 ## Default Configs
+
+### General
+
+```json
+{
+  "includeHotbarByDefault": false,
+  "enableDragQuickMove": true,
+  "enableSplitQuickMove": true,
+  "enableScrollTransfer": true,
+  "enableSlotLocking": true
+}
+```
+
+- **includeHotbarByDefault**
+    - Determines whether inventory actions include the hotbar by default.
+    - When enabled, hold Shift to exclude the hotbar.
+- **enableDragQuickMove**
+    - Enables quick moving items with Shift + Drag.
+- **enableSplitQuickMove**
+    - Enables quick moving half of a stack with Shift + Right-Click/Drag.
+- **enableScrollTransfer**
+    - Enables moving items by scrolling over a slot.
+- **enableSlotLocking**
+    - Enables locking slots with Alt + Click/Drag.
 
 ### Standard Containers
 
@@ -224,7 +255,13 @@ To partially reset the config, manually update the values using the default conf
 
 ### Complete Reset
 
-To completely reset the config, either update the values using the default config or simply delete the `config.json`
-file located in `configs/nemos-inventory-sorting`. <br>
+To completely reset a config, delete its JSON file from `config/nemos-inventory-sorting`.
 If there is no config file, the default values will be taken.
 After restarting Minecraft, the config file will be generated again.
+
+The old config files are automatically renamed:
+
+- `config.json` → `components.json`
+- `filter-config.json` → `filter.json`
+- `locked-slots-config.json` → `locked-slots.json`
+- `iron-chest-config.json` → `iron-chest-components.json`

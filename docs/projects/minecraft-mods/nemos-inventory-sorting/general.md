@@ -5,7 +5,8 @@ outline: deep
 # Nemo's Inventory Sorting
 
 **Nemo's Inventory Sorting** is a _client-side_ mod that adds buttons to your inventory GUI.  
-Sort your inventory, move all matching or all items, or drop everything at once — all with a single click.
+Sort your inventory, move all matching or all items, or drop everything at once, all with a single click.
+Items are sorted by their component and NBT data, including the contents of container items such as shulker boxes.
 
 You can even filter and highlight items in containers by typing part of their name!
 Quickly filter items by pressing **Ctrl + F** (or **Command + F** on macOS).  
@@ -34,6 +35,7 @@ Use at your own risk — or check with the server admins beforehand.
 - Quick move items with **Shift + Drag**
 - Quick move half items with **Shift + Right-Click/Drag**
 - Scroll transfer items between inventory/container or inventory/hotbar
+- Use sort, move and drop keybinds on the hovered inventory
 - Built-in dark mode resource pack
 
 ### Compatibility
