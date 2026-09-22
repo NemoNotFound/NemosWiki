@@ -35,7 +35,7 @@ Use at your own risk — or check with the server admins beforehand.
 - Quick move items with **Shift + Drag**
 - Quick move half items with **Shift + Right-Click/Drag**
 - Scroll transfer items between inventory/container or inventory/hotbar
-- Use sort, move and drop keybinds on the hovered inventory
+- Use separate sort, move and drop keybinds for containers, the player inventory and the hovered inventory
 - Built-in dark mode resource pack
 
 ### Compatibility

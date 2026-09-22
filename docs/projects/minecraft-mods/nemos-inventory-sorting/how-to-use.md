@@ -19,11 +19,20 @@ Simply click the buttons, or **Shift-click** to include items in the hotbar.
 ### Keyboard
 
 First, you need to set the key binds (they are unbound by default), which you can find in the key bind settings.  
-Once configured, hover over the inventory you want to interact with and press the key bind.
-Use **Shift + key bind** to include hotbar items when hovering over the inventory.
+There are separate key binds for containers, the player inventory and the hovered inventory.
+
+- **Container** key binds interact with the opened container.
+- **Inventory** key binds interact with the player inventory.
+- **Hovered** key binds interact with the inventory below the cursor.
+
+Use **Shift + key bind** to include hotbar items when interacting with the player inventory.
 
 Set `includeHotbarByDefault` to `true` in `general.json` to include the hotbar by default.
 Shift will then exclude the hotbar.
+
+Set `enableKeyMappings` to `false` to disable and hide all key binds.
+Use `enableHoverKeyMappings` or `enableContainerKeyMappings` to disable only the corresponding key binds.
+Restart Minecraft after changing these settings.
 
 ## Item Filter
 

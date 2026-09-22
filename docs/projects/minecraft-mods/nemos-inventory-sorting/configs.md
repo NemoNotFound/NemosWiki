@@ -61,7 +61,10 @@ In `components.json`, you'll find a list of configs structured as follows:
   "enableDragQuickMove": true,
   "enableSplitQuickMove": true,
   "enableScrollTransfer": true,
-  "enableSlotLocking": true
+  "enableSlotLocking": true,
+  "enableKeyMappings": true,
+  "enableHoverKeyMappings": true,
+  "enableContainerKeyMappings": true
 }
 ```
 
@@ -76,6 +79,15 @@ In `components.json`, you'll find a list of configs structured as follows:
     - Enables moving items by scrolling over a slot.
 - **enableSlotLocking**
     - Enables locking slots with Alt + Click/Drag.
+- **enableKeyMappings**
+    - Enables all key binds.
+    - When disabled, all mod key binds are hidden from the key bind settings.
+- **enableHoverKeyMappings**
+    - Enables key binds that act on the hovered inventory.
+- **enableContainerKeyMappings**
+    - Enables separate key binds for containers and the player inventory.
+
+Restart Minecraft after changing the key bind settings.
 
 ### Standard Containers
 
