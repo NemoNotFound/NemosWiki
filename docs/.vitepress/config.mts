@@ -364,6 +364,10 @@ export default defineConfig({
                                     text: "Supported Mods",
                                     link: "supported-mods",
                                 },
+                                {
+                                    text: "Gallery",
+                                    link: "gallery",
+                                },
                             ],
                         },
                         {

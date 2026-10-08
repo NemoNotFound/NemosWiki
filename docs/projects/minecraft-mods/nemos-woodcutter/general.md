@@ -10,6 +10,7 @@ With the Woodcutter you can do everything that a Stonecutter does, just for wood
 
 ::: info
 💡 If you're a dark mode enthusiast, you can use the built-in dark mode resource pack.
+Also, if you like the old woodcutter design better, there is a built-in resource pack for that as well.
 :::
 
 ## Requirements
